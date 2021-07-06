@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FIM (ForeFront Identity Manager)"
+    id="id-46830"
+    documentation="Indentity Management system used to manage flows of ID related info between systems based on predefined business rules, Current version 2010 R2, due to be upgraded to MIM"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00814 Telephone Directory (Teldir)"
+    id="id-47287"
+    documentation="Webservice of telephone directory on website uses a web service call to Sharepoint in order to display telephone data. The endpoint in Sharepoint is 'https://mysite.uwe.ac.uk/_vti_bin/TaxonomyClientService.asmx'"/>

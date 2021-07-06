@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DPM Disk Backups"
+    id="id-72298"
+    documentation="Legacy backup system, used to allow backup to disk for some systems.  Being phased out"/>

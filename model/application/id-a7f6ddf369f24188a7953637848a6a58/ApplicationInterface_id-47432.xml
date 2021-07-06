@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00070 Account master data to BI"
+    id="id-47432"
+    documentation="Account Master to Business Intelligence data warehouse from Agresso Finance"/>

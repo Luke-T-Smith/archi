@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citrix XenApp - Student Terminal Server (Desktop)"
+    id="id-72183"
+    documentation="Terminal Servers, running Citrix XenApp used to publish student desktop"/>

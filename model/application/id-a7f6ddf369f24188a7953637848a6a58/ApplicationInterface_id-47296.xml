@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00110 Associate Lecturer hours to SAP HR"
+    id="id-47296"
+    documentation="Data is collected and approved on a Sharepoint site for Associate Lecturer hours then entered into SAP HR payroll by Payroll Admin. HR admin seem to be involved in approval process."/>

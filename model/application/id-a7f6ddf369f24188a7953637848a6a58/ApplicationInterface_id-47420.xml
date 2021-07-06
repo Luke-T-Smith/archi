@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00418 Foreign Payments"
+    id="id-47420"
+    documentation="Data including bank details, value and payee for foreign payments to be made (e.g. in Euros)&#xA;replaces IF-00031"/>

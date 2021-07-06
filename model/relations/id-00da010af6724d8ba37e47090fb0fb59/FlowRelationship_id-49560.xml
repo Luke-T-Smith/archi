@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="progress reports"
+    id="id-49560">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-49562.xml#id-49562"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-49561.xml#id-49561"/>
+</archimate:FlowRelationship>

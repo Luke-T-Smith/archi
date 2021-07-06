@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00856 Staff Id Letters"
+    id="id-47502"
+    documentation="Sends emails to new joiners and their Managers"/>

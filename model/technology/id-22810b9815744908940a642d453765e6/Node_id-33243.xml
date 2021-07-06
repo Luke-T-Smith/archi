@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Broadcast Servers"
+    id="id-33243"
+    documentation="A specialized “web server” that processes live streaming requests."/>

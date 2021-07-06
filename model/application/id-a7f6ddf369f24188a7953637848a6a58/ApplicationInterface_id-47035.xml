@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00062 WPM to Agresso Business World - Payments"
+    id="id-47035"
+    documentation="Load WPM direct debit and payment information data into Agresso (deposits paid on line/online registrations/print credits/library fine payment). There are a number of files picked up including data analysis. Agresso_process_wpm_files"/>

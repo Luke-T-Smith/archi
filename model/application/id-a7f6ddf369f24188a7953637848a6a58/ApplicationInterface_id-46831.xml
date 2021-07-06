@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00428 Staff users to Library"
+    id="id-46831"
+    documentation="To provide staff data to Library that it needs to run the Library system e.g. to give staff access to Library who need it. including role, place in organisation and possibly a number of IDs such as ORCID, NI number, date of birth, name"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QIP Enterprise"
+    id="id-72333"
+    documentation="DNS management system (for UNIX DNS)"/>

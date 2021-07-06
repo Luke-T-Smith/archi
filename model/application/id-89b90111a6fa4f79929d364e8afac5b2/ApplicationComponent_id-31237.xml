@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Email and Calendar, MS Exchange"
+    id="id-31237"
+    documentation="Exchange 2007 - University's Staff email system&#xA;&#xA;We also subscribe to Exchange Online Encryption - Provides email encryption for a small number of staff.  Subscription based&#xA;&#xA;We also use Exchange Online Protection - Provides advanced SPAM/Malware/Virus protection for all incoming and outgoing emails.  Combined with protection of Exchange servers for multi-layered approach&#xA;&#xA;&#xA;&#xA;NOTE: separate email system for students via Office 365?"/>

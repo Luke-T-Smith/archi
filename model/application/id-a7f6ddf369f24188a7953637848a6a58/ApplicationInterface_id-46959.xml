@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00073 Agresso to ISIS - Students - ClearStudentDebt"
+    id="id-46959"
+    documentation="Updates students in ISIS who had debt but it has been written off in Agresso (is_debt_written_off flag)"/>

@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employees to WCN"
+    id="id-57032"
+    documentation="To enable internal candidates to apply for vacancies">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-56365.xml#id-56365"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-30892.xml#id-30892"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00042 MyUWE portal to Symphony"
+    id="id-47059"
+    documentation="As user moves to the 'Library' tab a real time look up using the portal user's ID to the library is carried out."/>

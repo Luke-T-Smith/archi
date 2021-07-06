@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00180 WAMS data to BI staff workload"
+    id="id-47680"
+    documentation="management reporting of staff work load allocation. UWE_Prod_Daily_Job_Wams_Job&#xA;whole database is extracted into BI from WAMS"/>

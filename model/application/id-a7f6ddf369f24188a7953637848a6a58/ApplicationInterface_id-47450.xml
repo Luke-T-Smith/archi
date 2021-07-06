@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00811 News webservice to website"
+    id="id-47450"
+    documentation="To provide news items from News and Events database to public-facing website"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00795 ISIS: Portal personal details"
+    id="id-47105"
+    documentation="To enable student to see the personal details from ISIS. Web services - ChangePriority, ConfirmRemoveContact ConfirmUpdateContact , GetPersonalDetails , RemoveCache , RemoveContact , RemoveDevCache , UpdateContact , UpdatePersonalDetails"/>

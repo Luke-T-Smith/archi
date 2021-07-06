@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00800 ISIS:portal results and marks"
+    id="id-47133"
+    documentation="To show the student their marks - course work and exams. Module level. GetModuleMarks, GetAssessOpportunities , GetAttemptedModules , GetAwardBoardMeetings , GetGDPCertificate"/>

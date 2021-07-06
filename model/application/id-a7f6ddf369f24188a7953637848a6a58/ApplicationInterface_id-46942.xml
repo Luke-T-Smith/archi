@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00501 External:ISIS - Fees"
+    id="id-46942"
+    documentation="Load residual income information into ISIS from SLC - specific to bursary applications. SLC does the means test and makes data available to UWE to help assess bursary allocation. For pre-2012 bursary. Extract from portal."/>

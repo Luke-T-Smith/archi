@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00057 Summon to OpenAthens"
+    id="id-47010"
+    documentation="e-books in catalogue, authenticate via OpenAthens. Also used with EZ proxy to control access to journals. The data flows are complex in reality, this is a 'placeholder' for the interactions that go on. Open Access does not require authentication."/>

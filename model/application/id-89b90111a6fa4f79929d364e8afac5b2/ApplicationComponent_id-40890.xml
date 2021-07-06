@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Associate lecturer system"
+    id="id-40890"
+    documentation="There is a schedule of hours with different rates for meetings, marking, preparation and teaching."/>

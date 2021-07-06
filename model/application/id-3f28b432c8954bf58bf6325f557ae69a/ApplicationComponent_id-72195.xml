@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FET Tab in Blackboard"
+    id="id-72195"
+    documentation="Displays Faculty-specific information for students, including student view of FET course database and module choice information"/>

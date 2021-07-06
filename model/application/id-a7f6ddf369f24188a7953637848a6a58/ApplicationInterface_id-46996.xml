@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00007 Payroll run to Agresso"
+    id="id-46996"
+    documentation="Update Agresso with payroll results. File of payroll costing produced by SAP HR (having finalised and agreed the payroll report). File put in a secure folder than a few finance people have access to. They import the file into Agresso."/>

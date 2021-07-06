@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Print Server Student"
+    id="id-72219"
+    documentation="Print server hosting network printer drivers and queues."/>

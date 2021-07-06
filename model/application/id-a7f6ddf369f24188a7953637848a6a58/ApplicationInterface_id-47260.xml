@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00804 USS Pension payments to USS"
+    id="id-47260"
+    documentation="USS pensions payments from payroll are interfaced to the USS pensions administrator"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timetables Splus Gateway"
+    id="id-72204"
+    documentation="FET Timetable Utilities to interface with Timetable's SPLUS Database."/>

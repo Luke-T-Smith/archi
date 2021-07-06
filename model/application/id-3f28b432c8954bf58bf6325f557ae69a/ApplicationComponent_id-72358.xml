@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Activation Server"
+    id="id-72358"
+    documentation="Activation server for all on-site Win7 PCs, 2008/12 Servers, and Office 2010 installations Can be shut down safely for short periods of time (e.g. a few hours"/>

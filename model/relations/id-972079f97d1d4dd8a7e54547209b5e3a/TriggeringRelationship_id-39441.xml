@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Email"
+    id="id-39441">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-39445.xml#id-39445"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-38612.xml#id-38612"/>
+</archimate:TriggeringRelationship>

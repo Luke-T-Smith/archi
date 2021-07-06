@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00037 Library security gate control system to Symphony"
+    id="id-47050"
+    documentation="A real time look up of book ids that have triggered the alarm to the LMS is carried out to check the user ID, their access is recorded for reporting purposes."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Timetabling, Syllabus Plus"
+    id="id-28818"
+    documentation="On premise. Every student is given a timetable of their activies (lectures, etc.) at UWE, including the room location.  Generation of these is a complex process with room availablity, lecturer availability, course size and course structure needing to be factored in.  However, it is essential that the students are given their timetables in a timely manner and that the timetables can then be used by the students with confidence that they are accurate.  The timetables are published in a number of online and printed formats, with multiple views for the student, lecturer and room planners."/>

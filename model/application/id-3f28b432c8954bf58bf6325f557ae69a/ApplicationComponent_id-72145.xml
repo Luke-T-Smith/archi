@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Available PCs"
+    id="id-72145"
+    documentation="Displays free PCS in FET labs which are available for use"/>

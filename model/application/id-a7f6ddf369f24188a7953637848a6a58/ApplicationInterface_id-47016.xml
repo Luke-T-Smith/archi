@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00069 Invoice scanning"
+    id="id-47016"
+    documentation="Scans invoices and transfers them to Agresso"/>

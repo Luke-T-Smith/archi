@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00089 Update Term Address"
+    id="id-46936"
+    documentation="When student has their key, their term time address is updated in ISIS"/>

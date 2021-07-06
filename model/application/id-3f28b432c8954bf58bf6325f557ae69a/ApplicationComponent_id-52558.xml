@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="News (info)"
+    id="id-52558"
+    documentation="ASP.NET application for managing public news"/>

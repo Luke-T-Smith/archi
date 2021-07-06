@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00317 Temporary Users from ISIS to FIM"
+    id="id-46864"
+    documentation="Separate feed of temporary users from ISIS to FIM to control identity management and access to systems via FIM. See related interface IF-00300 ISIS to FIM for other identities"/>

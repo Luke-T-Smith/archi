@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BizTalk"
+    id="id-72234"
+    documentation="Enterprise Integration software. Currently (15/03/18) running an application that processes incoming payments from International Students, reading payment details from Agresso and updating SITS and ISIS2."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00847 Xplor and Blackboard integration"
+    id="id-47380"
+    documentation="To integrate Blackboard and Xplor learning repository - LTI plug in used, activated as user clicks a link."/>

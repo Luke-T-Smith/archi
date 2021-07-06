@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cereus Access Control"
+    id="id-59494"
+    documentation="Written years ago by someone at UWE in ASP&#xA;&#xA;I think it supports SSO?&#xA;&#xA;Uses Kerberos"/>

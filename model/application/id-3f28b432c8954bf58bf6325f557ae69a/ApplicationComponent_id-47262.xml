@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Dynamics CRM 2013 CPD"
+    id="id-47262"
+    documentation="Primary University CRM for HAS CPD using Contract Management &amp; Event Management, there are plans to move FET and FBL into this version for CPD. Due to go live in 2016 (4th quarter). To  manage HAS short course, modules, study days e.g. mid-wifery. Contract payment needs to be managed, allocation of contract to courses. Registration via portal, approval by Trust via portal, reports for approver via new CPD portal ( see CRM Portal)"/>

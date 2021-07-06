@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00738 Isis Daily Extract 1"
+    id="id-47225"
+    documentation="Extracts of various ISIS tables to the ISIS Extract database"/>

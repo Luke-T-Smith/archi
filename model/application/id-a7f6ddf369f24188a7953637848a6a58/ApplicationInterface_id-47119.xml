@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00192 Online Registration Feed DELETE"
+    id="id-47119"
+    documentation="Update MyUWE with the list of students who can see the registration screens on the tabs. [OnlineRegistrationFeed]"/>

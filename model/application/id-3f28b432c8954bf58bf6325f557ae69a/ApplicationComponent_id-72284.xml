@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legacy Video Conferencing Systems"
+    id="id-72284"
+    documentation="Room based video conferencing.  End Points only.  Have some limited integration with Polycom infrastructure"/>

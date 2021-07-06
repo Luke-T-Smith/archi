@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Approved forms processed"
+    id="id-49672">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-49674.xml#id-49674"/>
+  <target
+      xsi:type="archimate:Representation"
+      href="Representation_id-49673.xml#id-49673"/>
+</archimate:AssociationRelationship>

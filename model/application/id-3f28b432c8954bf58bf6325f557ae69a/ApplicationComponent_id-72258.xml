@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Linux Live Update System"
+    id="id-72258"
+    documentation="System to update Linux PCs with urgent changes needed for teaching"/>

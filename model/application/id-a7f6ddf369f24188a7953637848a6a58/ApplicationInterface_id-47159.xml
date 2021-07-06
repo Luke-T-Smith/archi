@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00766 Student Photo"
+    id="id-47159"
+    documentation="Students can upload their photo via myUWE to the Photo ID table, using the Photo ID Tab in the portal."/>

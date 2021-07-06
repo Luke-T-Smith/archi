@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00006 Payroll Run to BACS"
+    id="id-47518"
+    documentation="Payroll payment to staff via BACS. Total report also produced so that Payroll and Finance can check the values that have been loaded to BACS are correct."/>

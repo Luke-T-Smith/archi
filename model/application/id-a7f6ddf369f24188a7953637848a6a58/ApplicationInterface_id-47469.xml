@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00419 Timesheets"
+    id="id-47469"
+    documentation="Bulk load of timesheet data (likely to be in spreadsheets)"/>

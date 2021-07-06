@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Online Module Data collection"
+    id="id-47083"
+    documentation="Collecting module delivery data - bespoke screens to help people create data in a web interface for Syllabus +, uses Syllabus + databases as a reference source, creates files for loading back into Syllabus +. Summarises staff attached to the module - this helps with WAMS."/>

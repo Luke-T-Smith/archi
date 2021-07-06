@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00837 Blackboard and Feedback Tool"
+    id="id-47182"
+    documentation="To help the release of marks and feedback to students and marks to ISIS. Calls 'grade extract' stored procedure on Blackboard database and saves the data to 'Grade extract table' custom table read by ISIS. Academic initiates this when a set of marks is available for release."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00741 Library Fines DELETE"
+    id="id-47332"
+    documentation="raises library fines for students who do not pay online"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citrix XenServer"
+    id="id-72293"
+    documentation="Virtual Hypervisor for Citrix XenApp Farms"/>

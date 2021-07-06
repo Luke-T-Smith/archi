@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00810 Fees webservice for website"
+    id="id-47615"
+    documentation="To provide fees data to public queries on the website"/>

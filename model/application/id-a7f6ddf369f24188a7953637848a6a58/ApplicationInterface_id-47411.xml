@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00152 Blackboard extract to BI - module eval"
+    id="id-47411"
+    documentation="UWE_Prod_Daily_Job - Blackboard Extract, course survey results, module evaluation - an anonymised version of the module survey data. Currently the data is not being reported on due to a previous lack of business direction."/>

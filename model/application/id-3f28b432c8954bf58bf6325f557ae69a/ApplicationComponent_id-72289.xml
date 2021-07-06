@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Active Directory Certificates"
+    id="id-72289"
+    documentation="Active Directory Certificate Services (AD CS) provides customizable services for issuing and managing public key infrastructure (PKI) certificates used in software security systems that employ public key technologies"/>

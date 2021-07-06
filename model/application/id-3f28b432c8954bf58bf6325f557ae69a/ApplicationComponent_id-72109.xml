@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offline Marking Tool"
+    id="id-72109"
+    documentation="Extension of Blackboard to allow academics to mark papers offline"/>

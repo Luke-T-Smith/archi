@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="timesheet entry"
+    id="id-49593">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-32799.xml#id-32799"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-49590.xml#id-49590"/>
+</archimate:FlowRelationship>

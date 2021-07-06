@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solaris VMware Platform for ISIS"
+    id="id-45424"
+    documentation="Manifests a set of Solaris Zones&#xA;&#xA;Automatic failover RSF-1 e.g. Milne to Nesbitt. Using a VIP - Virtual IP - so ISIS Live can be run on Milne or Nesbitt&#xA;&#xA;Zones on each of Milne and Nesbitt: live, dev, beta, qa, test qa, train (they try to run services dev etc. on the other server than live)&#xA;&#xA;Server patching: they failover to the alternative host, then dev moves to the patched server for testing etc"/>

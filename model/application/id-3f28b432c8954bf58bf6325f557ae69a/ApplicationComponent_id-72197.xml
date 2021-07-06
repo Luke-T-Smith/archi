@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="StorageTek Tape Library"
+    id="id-72197"
+    documentation="Tape library used by backup system"/>

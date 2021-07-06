@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OpenAthens LA"
+    id="id-47009"
+    documentation="Shibboleth-like SAML authentication system for library electronic resources.&amp;nbsp; The library has access to many external database, journal and ebook providers"/>

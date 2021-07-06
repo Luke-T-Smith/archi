@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Chrome Browser"
+    id="id-31247"
+    documentation="Used to provide locked down access to the search screen for users in the library without sign on. If sign on is needed it is promted for."/>

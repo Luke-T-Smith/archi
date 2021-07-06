@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Active Directory"
+    id="id-52354"
+    documentation="2 x Domains (ADS - Root Domain, CAMPUS - Primary Domain)"/>

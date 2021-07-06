@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Automated Turnstile Control System, Sentry ISIS (F)"
+    id="id-31226"
+    documentation="Turnstile access at Frenchay Library.  Manages access to main librray when library staff are not present"/>

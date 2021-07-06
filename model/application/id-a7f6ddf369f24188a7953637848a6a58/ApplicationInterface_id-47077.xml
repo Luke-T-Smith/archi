@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00796 ISIS:portal on-line addresses"
+    id="id-47077"
+    documentation="To enable student to create new addresses for home or term address, shows existing addresses and give option to update or add. Web services: ConfirmRemoveAddress , CopyAddress , GetAddresses , NewAddress , RemoveAddress , SaveAddress , SearchAddress"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00060 Other Library query to Symphony catalogue via Z39.50"
+    id="id-47514"
+    documentation="Z39.50 a method for other library systems to query the Symphony catalogue"/>

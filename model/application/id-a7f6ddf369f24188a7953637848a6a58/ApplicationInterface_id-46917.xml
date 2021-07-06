@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00203 External Examiners to ISIS"
+    id="id-46917"
+    documentation="Sharepoint is used to load external examiners (sundry staff) into ISIS so that they are assigned user IDs which are subsequently sent to FIM and other systems."/>

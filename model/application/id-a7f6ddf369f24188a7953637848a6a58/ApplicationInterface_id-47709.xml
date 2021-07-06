@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00176 Registrations from CRM Portal to CRM"
+    id="id-47709"
+    documentation="Registrations captured in the portal are interfaced into the CRM system (CPD and AWE). In the case of CPD it is student registration, for AWE it is clients registering to access services."/>

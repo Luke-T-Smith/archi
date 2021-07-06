@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00314 FIM to LDAP"
+    id="id-46833"
+    documentation="Staff and student identities from FIM to LDAP for purposes of authentication and authorisation"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ForeFront Client Security"
+    id="id-72328"
+    documentation="Anti Virus/Malwares - I think that this should be called Endpoint now (check with MSAT)"/>

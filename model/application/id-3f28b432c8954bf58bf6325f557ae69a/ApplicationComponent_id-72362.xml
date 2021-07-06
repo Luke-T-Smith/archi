@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dell IPKVM Console"
+    id="id-72362"
+    documentation="Remote management of cabinets within the Data Centres"/>

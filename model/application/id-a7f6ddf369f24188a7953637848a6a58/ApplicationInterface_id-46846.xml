@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00315 FIM to myUWE student and staff IDs"
+    id="id-46846"
+    documentation="FIM maintains the myUWE users database table for the portal access control. Data is identities of staff and students. Note some of the attributes used come via IF-00318 to FIM"/>

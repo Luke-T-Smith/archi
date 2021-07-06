@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EZproxy"
+    id="id-31239"
+    documentation="https://www.oclc.org/ezproxy.en.html&#xA;&#xA;Authentication is an important issue for libraries and information seekers; certain library resources require authorized access, while remote information seekers want access without obstacles. EZproxy access and authentication software connects to many content providers, including OCLC, EBSCO, Gale and others. It also connects to a wide variety of authentication services, including LDAP, SIP and Shibboleth, which reduces the number of authorizations and passwords users need to remember. Users gain secure remote access to the Web-based, licensed content they discover in libraries."/>

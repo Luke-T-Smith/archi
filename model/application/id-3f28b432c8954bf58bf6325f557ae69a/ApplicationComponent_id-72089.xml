@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RMS Vision"
+    id="id-72089"
+    documentation="Extension of RMS, providing BI analytics and reporting"/>

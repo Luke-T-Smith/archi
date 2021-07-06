@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminal Server Staff External"
+    id="id-72066"
+    documentation="Terminal Servers, running Citrix XenApp used to publish staff desktop with cut down functionality for external users"/>

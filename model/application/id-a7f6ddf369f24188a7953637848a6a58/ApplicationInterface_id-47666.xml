@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00785 bb6_filecopy DELETE"
+    id="id-47666"
+    documentation="Copy output from ISIS Blackboard data run to Bb server"/>

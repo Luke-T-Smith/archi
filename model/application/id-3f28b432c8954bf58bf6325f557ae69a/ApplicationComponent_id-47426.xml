@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Dynamics CRM 2013 AWE"
+    id="id-47426"
+    documentation="Primary University CRM for Access West of England using Disabilities module - manages the study needs assessment, not just UWE. Customised the process and some custom entities to enable the complex process. Portal (future) - student, assessor and QA checker to access docs and data securely in CRM. Integrated with SharePoint for document management (includes access rules)."/>

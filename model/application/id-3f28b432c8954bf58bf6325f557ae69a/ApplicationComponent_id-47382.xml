@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External: NatWest Bankline"
+    id="id-47382"
+    documentation="On-line bank payments system, used to pay large suppliers e.g. HMRC"/>

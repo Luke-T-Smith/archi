@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modules database (HAS)"
+    id="id-43872"
+    documentation="Marked for EOL, containes module and program specs that are still running. Central system (presume this means ISIS or is it Student Allocator?) is slowly replacing this database but only when a module needs updated. Will be needed until all modules running have been updated"/>

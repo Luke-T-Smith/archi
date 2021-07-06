@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opt Out Database"
+    id="id-40010"
+    documentation="Database for holding details of Sessions NOT to be auto-recorded"/>

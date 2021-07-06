@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Permissions (security) module (.Net)"
+    id="id-56662"
+    documentation="Roles based permissions is used e.g. in &#xA;&#xA;Long term - role based access solution"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Hub - operational data store"
+    id="id-72076"
+    documentation="A future, planned, standardised, aggregated data service combining data about a student such as their personal details, their registration details, their contact details.&#xA;To be implemented as part of the target SOA hybrid integration architecture. The student account entity will be defined in the Enterprise Data Dictionary. RESTful API's will support security controlled access to student information for those systems that need ot use it."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00403 Payroll to GL"
+    id="id-47023"
+    documentation="To account for all payroll transactions in the finance system."/>

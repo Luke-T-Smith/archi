@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quest Password Manager"
+    id="id-72280"
+    documentation="Provides enhanced Password Management functionality (e.g. Q&amp;A based password recovery).  Integrates with FIM."/>

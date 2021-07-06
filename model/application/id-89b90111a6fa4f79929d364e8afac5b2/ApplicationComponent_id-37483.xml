@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Comscore Analytics"
+    id="id-37483"
+    documentation="EXTERNALLY HOSTED Generates counter re number of page views - looks at url and changes into a human readable string, links to it country from, IP address. All this content is minable via the comscore website. Embedded script in each page - embedded by Toptail - calls Toptail and sends it information about that page visit in the Comscore required format. We host this .Net script on our Content Delivery Network (CDN). We have 2 CDN;s - one for stylesheets, called 'styles.ac.uk', and one for javascripts, java plugins, jquery etc. - called 'components.ac.uk' &#xA;&#xA;&#xA;&#xA;Styles&#xA;&#xA;&#xA;&#xA;Components - a site hosted on four boxes - ask Christ where these are. &#xA;&#xA;&#xA;&#xA;Courses"/>

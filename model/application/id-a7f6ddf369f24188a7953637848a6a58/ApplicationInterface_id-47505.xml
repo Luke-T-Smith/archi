@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00765 ISIS to SLC:Student Loan Attendance"
+    id="id-47505"
+    documentation="Confirm to SLC which students are in attendance - file of data extracted from ISIS and loaded manually to SLC portal."/>

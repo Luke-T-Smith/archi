@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00056 Symphony to SMS service"
+    id="id-47347"
+    documentation="SMS messages can be sent to library users to notify them of various things (books to pick up, return request)."/>

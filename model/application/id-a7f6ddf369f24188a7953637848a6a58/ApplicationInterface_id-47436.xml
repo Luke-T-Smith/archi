@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00134 ISIS to TravelSmart"
+    id="id-47436"
+    documentation="Students complete parking request made in myUWE portal is recorded in ISIS which is passed to TravelSmart"/>

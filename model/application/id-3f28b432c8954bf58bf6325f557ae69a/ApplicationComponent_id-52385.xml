@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Works Request Tracker"
+    id="id-52385"
+    documentation="Used to track progress of work in Archibus, permissions based on Kinetics, webform on Archibus"/>

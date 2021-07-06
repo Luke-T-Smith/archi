@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voicemail, legacy"
+    id="id-43836"
+    documentation="Provides voicemail for legacy (Alcatel / Siemens) systems"/>

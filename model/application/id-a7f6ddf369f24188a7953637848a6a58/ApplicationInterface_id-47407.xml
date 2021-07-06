@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00170 Financial Period to BI"
+    id="id-47407"
+    documentation="Financial period to Business Objects data warehouse from Agresso Finance"/>

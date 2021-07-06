@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00123 External:SITS - Applicants (UTT)"
+    id="id-46928"
+    documentation="Import applications made from UTT (teacher training) - applicants, application, decisions are sent back to UCAS, changes from UCAS (e.g. contact details)"/>

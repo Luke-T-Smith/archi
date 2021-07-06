@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00175 Registrations from CRM Lite to CRM"
+    id="id-47573"
+    documentation="CRM Lite used to convert on-line registrations to MS Dynamics CRM"/>

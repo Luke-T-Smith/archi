@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="authorise?"
+    id="id-31574">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-31544.xml#id-31544"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-31540.xml#id-31540"/>
+</archimate:AssociationRelationship>

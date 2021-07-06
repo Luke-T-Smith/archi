@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00039 3M book return to Symphony"
+    id="id-47477"
+    documentation="To send details of books returned via self service book return system to Symphony LMS."/>

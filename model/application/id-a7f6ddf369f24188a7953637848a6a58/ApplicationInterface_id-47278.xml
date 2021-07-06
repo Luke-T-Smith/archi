@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00849 Panopto and Blackboard integration"
+    id="id-47278"
+    documentation="To integrate Panopto and Blackboard - uses Building Block. Lecturer creates the link from Panopto to Blackboard used by the student from Blackboard."/>

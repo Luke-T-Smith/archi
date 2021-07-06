@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Attendance Monitoring"
+    id="id-72259"
+    documentation="Attendance monitoring based on swipe card readers in classrooms at Glenside. Some bespoke components - by HAS and ITS."/>

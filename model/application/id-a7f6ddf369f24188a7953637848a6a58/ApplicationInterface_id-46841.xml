@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00405 Staff Identity interface"
+    id="id-46841"
+    documentation="To request new IDs or updated IDs for new and changed staff"/>

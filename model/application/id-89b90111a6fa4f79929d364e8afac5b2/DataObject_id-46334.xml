@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mode of Attendance"
+    id="id-46334"
+    documentation="E.g. sandwich, fulltime, distance learing etc (SLC only recognise a few categories)"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00067 ISIS Bursary Payments (New ISIS Application)"
+    id="id-47026"
+    documentation="ISIS Bursary Payments (New ISIS Application) - credit transactions to the AR account of the student, payment made via BACS. Note there is an issue collecting student bank details. ISIS_BURS_NEW"/>

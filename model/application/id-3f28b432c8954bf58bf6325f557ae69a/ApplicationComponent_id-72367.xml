@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exchange Unified Messaging System"
+    id="id-72367"
+    documentation="UM platform, for voicemail, etc. supporting Lync UC"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00044 Symphony catalogue to Summon"
+    id="id-47352"
+    documentation="Nightly update script to send updates/changes to the catalogue to Summon"/>

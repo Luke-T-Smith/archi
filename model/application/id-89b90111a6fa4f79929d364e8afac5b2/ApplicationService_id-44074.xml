@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Admin Console"
+    id="id-44074"
+    documentation="net work only access, used by Staff team of 3.6 FTE Super-Admins who:&#xA;&#xA;Log in support and account requests&#xA;&#xA;Set up and manage permissions for Admin users&#xA;&#xA;Build forms and workflows to support processes&#xA;&#xA;Offer guidance on system use and structures&#xA;&#xA;Produce MI reports from form data"/>

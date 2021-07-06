@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ITS Counter Log"
+    id="id-49043"
+    documentation="For recording logs at a walk up desk, user records type of call and where desk is. Just collects stats and no details."/>

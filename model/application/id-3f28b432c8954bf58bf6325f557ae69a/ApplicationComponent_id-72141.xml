@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Who is"
+    id="id-72141"
+    documentation="Utility to search for user by name etc."/>

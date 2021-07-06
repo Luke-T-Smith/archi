@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00736 ISIS_BursariesFileTransfer DUPLICATE DELETE"
+    id="id-47215"
+    documentation="Copy bursaries output files to Fiannce S:\ drive"/>

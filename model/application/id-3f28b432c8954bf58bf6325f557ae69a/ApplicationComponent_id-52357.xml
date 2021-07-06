@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MIM"
+    id="id-52357"
+    documentation="Microsoft Identity Manager: core User Identity Provisioning and Synchronization service"/>

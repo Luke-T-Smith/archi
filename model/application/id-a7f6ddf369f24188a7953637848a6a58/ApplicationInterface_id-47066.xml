@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00146 ISIS:Blackboard - users"
+    id="id-47066"
+    documentation="Student and staff who are users feed from ISIS to Blackboard - there several files between ISIS and Blackboard this is the users file."/>

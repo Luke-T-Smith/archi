@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manager Self Service use"
+    id="id-56123"
+    documentation="Managers approve various changes, holiday, PDRs, training requests, timesheets, expenses.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-40065.xml#id-40065"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-29421.xml#id-29421"/>
+</archimate:ServingRelationship>

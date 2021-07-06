@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00026 REPORT SAP to ONS"
+    id="id-47254"
+    documentation="Data extract for Office Of National Statistics. Data extracted from SAP HR and used to fill in paper forms."/>

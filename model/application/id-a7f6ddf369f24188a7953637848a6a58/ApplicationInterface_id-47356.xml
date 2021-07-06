@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00058 Symphony to email"
+    id="id-47356"
+    documentation="Emails are output to Office 365 via SMTP gateway"/>

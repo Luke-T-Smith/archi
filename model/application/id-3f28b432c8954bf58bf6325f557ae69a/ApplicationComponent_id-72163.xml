@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FET zen rsync-uncomp"
+    id="id-72163"
+    documentation="Aging linux server used to share files between remote institutions"/>

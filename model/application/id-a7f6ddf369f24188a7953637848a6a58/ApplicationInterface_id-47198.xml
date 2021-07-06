@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00850 MediaSite and Blackboard integration"
+    id="id-47198"
+    documentation="To integration MediaSite lecture capture with Blackboard - Building Block used. Lecturers create link from Blackboard to this, then used by students to access the lecture."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00108 BlackboardTrain:SAP - Attendance"
+    id="id-47363"
+    documentation="Update SAP with staff details who have attendended Fire safety or Equality and diversity courses (mandatory courses). HR go to a screen on Blackboard Train, enter parameters (course ID, points) and submit request, data returned as a spreadsheet which is uploaded to SAP."/>

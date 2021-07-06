@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nexsan SATAbeast"
+    id="id-72094"
+    documentation="Disk Storage System, used in conjunction with Veritas Netbackup for online disk based backups"/>

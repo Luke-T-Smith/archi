@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payroll create extracts for external organisations"
+    id="id-49670">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-31540.xml#id-31540"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-30011.xml#id-30011"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity Allocation system"
+    id="id-46840"
+    documentation="System to allocate identities to staff e.g. email address, logon ID and unique reference number"/>

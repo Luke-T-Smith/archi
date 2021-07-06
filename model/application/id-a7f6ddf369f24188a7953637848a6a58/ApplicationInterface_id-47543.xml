@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00809 SITS Courses to Course filestore / Elastic search"
+    id="id-47543"
+    documentation="Courses are published from SITS as XML data into a filestore (//NSTA-UWEA/IMP/staticfiles/Courses/live) for use by Elastic Search"/>

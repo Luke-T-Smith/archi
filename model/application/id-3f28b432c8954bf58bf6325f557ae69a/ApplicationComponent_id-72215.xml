@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sitewide search front end"
+    id="id-72215"
+    documentation="Front end application supported by SharePoint 2007 search"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Blackboard Student Group Applications"
+    id="id-72099"
+    documentation="Web form and associated DB to support the application for, and approval of, ISIS student groups to create Blackboard courses"/>

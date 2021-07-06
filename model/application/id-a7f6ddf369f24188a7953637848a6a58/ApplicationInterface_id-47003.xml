@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00302 Staff details inc SAP personnel number to Blackboard train"
+    id="id-47003"
+    documentation="Uses the same format file as ISIS to Blackboard but includes the HR staff number. Interface is not under full FIM control but uses 'generic staff' table maintained by FIM. Table has a snapshot of current data and a means of recording changes."/>

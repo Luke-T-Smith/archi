@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00313 FIM to Generic Student table"
+    id="id-46887"
+    documentation="FIM populates a generic table of students for systems that do not need full FIM-controlled access. This is a SQLserver table which can provide both a full snapshot of data and has a means of recording changes and sending deltas."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FIS Fees Information Service"
+    id="id-28321"
+    documentation="fees.ac.uk&#xA;&#xA;Ian Stratton at UWE looks after this&#xA;&#xA;Written in .Net&#xA;&#xA;Has workflow, admin backend. Admins can create new fees for courses and take through board approval route"/>

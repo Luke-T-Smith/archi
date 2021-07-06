@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00066 SITS:Agresso Business World - Applicants"
+    id="id-47018"
+    documentation="Customer information of new applicants from SITS to Agresso so that they are set up on Accounts Receiveable."/>

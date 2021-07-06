@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00813 Courses to Website webservice"
+    id="id-47320"
+    documentation="Webservice that provides course details to the public-facing website"/>

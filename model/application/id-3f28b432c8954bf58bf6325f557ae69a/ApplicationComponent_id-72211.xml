@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DNS - Active Directory"
+    id="id-72211"
+    documentation="AD DNS, primary DNS for all servers and thin client users"/>

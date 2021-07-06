@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External - other libraries"
+    id="id-47481"
+    documentation="various libraries such as British Library, use for inter-library loans (ILLs)"/>

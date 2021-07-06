@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00808 Course data to Course App"
+    id="id-47230"
+    documentation="Course data is provided to the Course application which provides public-facing web access to UWE course information, the data is provided via the Elastic Search application reading an index on the courses extracted from SITS into a filestore."/>

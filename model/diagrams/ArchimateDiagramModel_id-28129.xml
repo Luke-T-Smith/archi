@@ -1,0 +1,38 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Implementation and deployment view for SITS"
+    id="id-28129"
+    viewpoint="implementation_deployment">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-32215"
+      font="1|Arial|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#afffff">
+    <bounds
+        x="55"
+        y="164"
+        width="133"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-32216.xml#id-32216"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-32465"
+      font="1|Arial|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#afffff"
+      content="SITS">
+    <bounds
+        x="55"
+        y="55"
+        width="133"
+        height="53"/>
+  </children>
+</archimate:ArchimateDiagramModel>

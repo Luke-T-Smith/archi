@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contact directory"
+    id="id-56008"
+    documentation="currently gets data from AD, and list of depts is from Sharepoint mysites to get hierarchical list of depts"/>

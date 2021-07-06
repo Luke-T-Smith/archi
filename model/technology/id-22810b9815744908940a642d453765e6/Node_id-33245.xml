@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Upload Servers"
+    id="id-33245"
+    documentation="Similar to broadcast servers, but these process upload requests for pre-recorded videos."/>

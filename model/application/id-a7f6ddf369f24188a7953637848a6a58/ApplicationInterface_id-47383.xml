@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00417 Bankline payments"
+    id="id-47383"
+    documentation="Data including bank details, value and payee for payments to be made via Bankline&#xA;replaces IF-00030"/>

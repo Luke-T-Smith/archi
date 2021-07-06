@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="360 Link"
+    id="id-52510"
+    documentation="Link resolver.   Web based service that integrates with Summon search engine to resolve i.e. keep track of the web links of all the library electronic resources - mainly databases and journals"/>

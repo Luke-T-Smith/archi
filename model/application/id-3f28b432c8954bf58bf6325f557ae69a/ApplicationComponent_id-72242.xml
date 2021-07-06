@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Revit"
+    id="id-72242"
+    documentation="BIM product - used by Estates. Plugs into Archibus. Not well developed/used yet. Can exchange data with Archibus e.g. FBL building will provide BIM model. Could include building manuals in this - how it works etc."/>

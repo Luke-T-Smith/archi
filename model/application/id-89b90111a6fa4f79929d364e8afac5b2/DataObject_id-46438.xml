@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interim Award"
+    id="id-46438"
+    documentation="Used when student does not complete Primary Target but still gets an award&#xA;&#xA;Business rules determine the interim award based on a combo of number of years of study, number of credits, module passes.&#xA;&#xA;No HEDIPP definition for Interim.&#xA;&#xA;E.g. Cert HE Biomedical Science/Dip HE Biomedical Science/Bsc Biomedical Science = possible interim awards where student hasn't achieved Bsc (hons) Biomedical Science"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00079 Agresso Business World:BACS"
+    id="id-47240"
+    documentation="BACS payment files are downloaded from Agresso and uploaded to BACS website"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00767 Student Reps to Portal"
+    id="id-47117"
+    documentation="Give Student Reps access to create announcements in Portal.&#xA;SharePoint list of Student Rep, there is a workflow to capture changes and these are fed to portal."/>

@@ -1,0 +1,22 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Life cycle view"
+    id="id-27460">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-64790"
+      font="1|Arial|10.0|2|WINDOWS|1|0|0|0|0|0|1|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#202020"
+      fillColor="#afffff">
+    <bounds
+        x="200"
+        y="327"
+        width="2258"
+        height="40"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-33164.xml#id-33164"/>
+  </children>
+</archimate:ArchimateDiagramModel>

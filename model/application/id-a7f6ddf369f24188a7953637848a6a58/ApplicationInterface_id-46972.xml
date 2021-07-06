@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00854 Student Debt Status Update from Finance System"
+    id="id-46972"
+    documentation="TO BE interface to replace IF-00073 and IF-00078 as part of the new SOA Hybrid Integration architecture required for the Student Journey Project. Will enable us to decouple from ISIS ahead of a new SIS (student information system)"/>

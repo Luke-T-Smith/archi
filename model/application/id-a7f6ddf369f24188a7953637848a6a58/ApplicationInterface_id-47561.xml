@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00788 run_import_from_alcatel"
+    id="id-47561"
+    documentation="Import Jobtitle, Location changes to ILM (FIM) via Generic Staff Table  from the Alcatel phonebook"/>

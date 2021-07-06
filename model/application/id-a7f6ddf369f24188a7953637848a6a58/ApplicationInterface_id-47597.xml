@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00114 Archibus to/from IFS"
+    id="id-47597"
+    documentation="Two way interface of work requests to contractor's system (IFS) from Archibus, plus response, work requests and status back."/>

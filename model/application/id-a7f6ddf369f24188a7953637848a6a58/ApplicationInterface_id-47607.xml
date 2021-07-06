@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00153 Blackboard extract to BI - usage"
+    id="id-47607"
+    documentation="UWE_Prod_Daily_Job_BB_Activity_Job - student activity. Usage: information regarding student access (clicks through) to Blackboard and specific areas within (e.g. course area). Not used for any ongoing purpose but has been used to monitor engagement."/>

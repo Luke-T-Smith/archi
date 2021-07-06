@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FET reverse proxy"
+    id="id-72146"
+    documentation="Allows internal web servers to be accessed from outside UWE"/>

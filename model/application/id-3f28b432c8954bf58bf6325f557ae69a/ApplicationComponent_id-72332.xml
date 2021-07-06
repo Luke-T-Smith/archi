@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Celerra (Gateway)"
+    id="id-72332"
+    documentation="NAS gateway providing file storage (disks are on SAN)"/>

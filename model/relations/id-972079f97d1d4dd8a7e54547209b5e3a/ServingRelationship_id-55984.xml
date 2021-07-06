@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Application Authentication"
+    id="id-55984">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-30892.xml#id-30892"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-33987.xml#id-33987"/>
+</archimate:ServingRelationship>

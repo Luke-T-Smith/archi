@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAD FlexIm"
+    id="id-72114"
+    documentation="Network license system for AutoCAD - monitors concurrent users etc. Users in Estates, 1 or 2 regular users plus c 30 casual users."/>

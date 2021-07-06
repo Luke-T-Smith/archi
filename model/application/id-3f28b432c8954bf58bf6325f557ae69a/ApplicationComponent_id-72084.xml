@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BigIP Load Balancers"
+    id="id-72084"
+    documentation="Hardware load balancers, procured as part of the NGN"/>

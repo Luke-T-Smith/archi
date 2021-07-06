@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AAD Connect Staff"
+    id="id-30273"
+    documentation="Software syncs on prem and cloud AD. Sits on Azure AD"/>

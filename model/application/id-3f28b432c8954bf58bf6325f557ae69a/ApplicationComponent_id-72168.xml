@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MIM SSPR Portal"
+    id="id-72168"
+    documentation="Microsoft Identity Manager: Self-Service Password Portal - publicly accessible Web Portal  for Students and Staff to maintain their passwords."/>

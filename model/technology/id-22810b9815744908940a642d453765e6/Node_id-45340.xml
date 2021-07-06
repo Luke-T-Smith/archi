@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SQL Server Backup"
+    id="id-45340"
+    documentation="Transaction logs back up to Windows Servers with dedicated disk, which backup to online backup, eventually to tape library&#xA;&#xA;SQL Server backups are being controlled at the SQL Server end"/>

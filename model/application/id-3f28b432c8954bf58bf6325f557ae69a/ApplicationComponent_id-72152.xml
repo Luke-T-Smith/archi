@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FET Sickness Reporting"
+    id="id-72152"
+    documentation="For FET staff to report sickness absence and class cancellations; emails line manager and admin teams who notify students"/>

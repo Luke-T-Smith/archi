@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00011 Statutory Returns - HESA"
+    id="id-47496"
+    documentation="REPLACED BY IC00409 Production of HESA statutory return - HESA have their own website to which especially formatted data needs to be loaded. HR can check the format of the return in a local 'kit' before upload to HESA."/>

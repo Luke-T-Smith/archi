@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Room Bookings Utilities (including SPLUS)"
+    id="id-52575"
+    documentation="Utilities to support time-table reporting and the SPLUS com-object gateway ( PHP and C# )?"/>

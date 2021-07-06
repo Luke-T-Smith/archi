@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00798 ISIS:portal personal documents"
+    id="id-47123"
+    documentation="Personalised documents produced depending on the status of the award e.g. council tax certificate, status letter, HEAR. See separate web service to work out the eligibility (IF-00799, IF-00797). GetCouncilTaxCertificate , GetStatusLetter"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00048 Symphony to Publishers via EDI - confirmed order"
+    id="id-47247"
+    documentation="Confirmed order in EDIFACT format direct to aggregator's server. Note not all aggregators use EDI in the same way."/>

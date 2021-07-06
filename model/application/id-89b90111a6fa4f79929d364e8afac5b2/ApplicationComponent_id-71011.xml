@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BACS System"
+    id="id-71011"
+    documentation="Used in payment runs. a file is used to configure the BACS system with payment bank details."/>

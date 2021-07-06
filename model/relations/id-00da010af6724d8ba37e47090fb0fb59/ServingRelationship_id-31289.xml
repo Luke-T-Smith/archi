@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Place order"
+    id="id-31289">
+  <source
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-31233.xml#id-31233"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-31229.xml#id-31229"/>
+</archimate:ServingRelationship>

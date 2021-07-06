@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00005 FIM Project - Staff records NOT DONE"
+    id="id-46848"
+    documentation="?NOT YET IMPLEMENTED - Staff details to FIM for identity management. Proposed change to feed staff records from SAP to FIM (without going through ISIS)"/>

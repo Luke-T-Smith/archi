@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRM Course Run Capacity (manually entered)"
+    id="id-47814"
+    documentation="Some discussion with Crimson - different course run groupings have unique capacity (depends on resources to be used, etc). &#xA;&#xA;CPD get told which room their course will run in and therefore they can decide on capacity. &#xA;&#xA;&#xA;&#xA;Each CRM Course Run will need and associated Course Run Capacity data object."/>

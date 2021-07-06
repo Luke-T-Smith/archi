@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00401 Cost centre validation"
+    id="id-47467"
+    documentation="To make sure cost centres entered into HR system are valid"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00059 Symphony to Publishers via Email"
+    id="id-47272"
+    documentation="Automated emails from library system are sent to serial providers to prompt actions: claim notices, alerts if not received something that had been ordered etc."/>

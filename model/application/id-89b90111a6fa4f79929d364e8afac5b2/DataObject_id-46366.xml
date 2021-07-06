@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Version Creation Date"
+    id="id-46366"
+    documentation="Creation date for that version of the Programme&#xA;&#xA;Master Data system: ISIS&#xA;&#xA;&#xA;&#xA;Hand entered by Curriculum architect, as programme specs change, so will the ISIS Version Date. It is a date that will typically be 1st August YEAR XXXX.  Could also be different year starts"/>

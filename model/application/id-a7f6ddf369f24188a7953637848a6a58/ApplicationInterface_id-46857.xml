@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00427 Staff Users to ISIS"
+    id="id-46857"
+    documentation="To provide staff data to ISIS that it needs to run the student administration system e.g. to give staff access to ISIS who need it."/>

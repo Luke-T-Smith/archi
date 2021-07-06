@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document Connector"
+    id="id-56577"
+    documentation="Allows CMS content to link to document store - clicking on this opens new window on to the file stored in public.uwe.ac.uk&#xA;&#xA;The filestore is structured in a special way (Sharepoint 2007) to allow for this connection.&#xA;&#xA;UWE wrote this instead of standard document store connector. &#xA;&#xA;A future CMS will prob have Sharepoint connector, but might not be compatible structure, would be better off going with a doc store with future CMS"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Citrix XenApp - Staff Terminal Server (Desktop)"
+    id="id-72080"
+    documentation="Terminal Servers, running Citrix XenApp used to publish staff desktop"/>

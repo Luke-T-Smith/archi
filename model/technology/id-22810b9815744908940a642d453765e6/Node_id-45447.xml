@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SQL Server Database Mirroring - Consolidated SQL Server"
+    id="id-45447"
+    documentation="This solution was implemented prior to the 2012HA approach."/>

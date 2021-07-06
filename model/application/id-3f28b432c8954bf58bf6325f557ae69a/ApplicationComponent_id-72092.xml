@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Skelta"
+    id="id-72092"
+    documentation="3rd Party Workflow Engine running behind SharePoint 2007.  Being decommissioned."/>

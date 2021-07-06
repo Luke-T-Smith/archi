@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service: GOT ID"
+    id="id-43037"
+    documentation="This service will provide new identities to target systems such as Active Directory. It may be that the identity is not confirmed as set up until acknowledged by AD."/>

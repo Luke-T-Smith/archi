@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00424 Staff MDS to ITrent"
+    id="id-46835"
+    documentation="Provisioning scenario to support staff self service. To update HR system with identities assigned by Identity Management system. This will enable single sign on and automated emails. Data includes email address."/>

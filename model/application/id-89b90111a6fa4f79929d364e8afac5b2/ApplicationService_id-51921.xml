@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mail Manager"
+    id="id-51921"
+    documentation="used to email out, emails can be used to log an incident"/>

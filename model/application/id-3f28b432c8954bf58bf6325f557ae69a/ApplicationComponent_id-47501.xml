@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="End Users"
+    id="id-47501"
+    documentation="Dummy system, represents end users for interfaces that aren't really interfaces."/>

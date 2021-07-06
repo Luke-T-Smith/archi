@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="To budget process"
+    id="id-56650"
+    documentation="Reports of staff costs - actual and forecast as used in monthly budget reports by Finance.">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-56473.xml#id-56473"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-30519.xml#id-30519"/>
+</archimate:AssociationRelationship>

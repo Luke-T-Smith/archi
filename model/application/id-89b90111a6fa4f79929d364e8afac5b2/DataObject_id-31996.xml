@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign Response"
+    id="id-31996"
+    documentation="Created in 1:1 relationship to every application.&#xA;&#xA;If student cancels their application, then the campaign response record is deleted&#xA;&#xA;Used solely to help capacity calculations&#xA;&#xA;&#xA;&#xA;Links to level"/>

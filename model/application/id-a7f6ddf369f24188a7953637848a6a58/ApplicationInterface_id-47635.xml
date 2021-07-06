@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00833 LANDESK user authentication with AD"
+    id="id-47635"
+    documentation="LANDESK will use Active Directory to authenticate users - two way interface. User details will also be provided to LANDESK from Active Directory via  a read only VPN link."/>

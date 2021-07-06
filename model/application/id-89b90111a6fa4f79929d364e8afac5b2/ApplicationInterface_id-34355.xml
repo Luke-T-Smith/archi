@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISIS to Blackboard Asessments"
+    id="id-34355"
+    documentation="A perl script handles an ETL integration to write assessment data direct to the Blackbaord database table. This Assessment feed uses course id as it is specific to a run"/>

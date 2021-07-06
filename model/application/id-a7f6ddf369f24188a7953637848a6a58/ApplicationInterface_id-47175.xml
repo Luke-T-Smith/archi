@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00144 ISIS:Blackboard - course enrolment"
+    id="id-47175"
+    documentation="Award feed from ISIS to Blackboard - there several files between ISIS and Blackboard this is the course_enr. It links student to their course/student group."/>

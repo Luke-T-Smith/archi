@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWE SMS"
+    id="id-52405"
+    documentation="A system to prepare SMS text messages to specified students and UWE organisational groups - as defined in MyUWE. Delivery to the the external SMS service provider is handle by the SMS Gateway. (see also SMS Gateway)."/>

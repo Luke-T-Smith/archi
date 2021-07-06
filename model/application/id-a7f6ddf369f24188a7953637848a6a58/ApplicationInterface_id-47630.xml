@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00859 Eprints to Arkivum"
+    id="id-47630"
+    documentation="A plugin for eprints that allows eprints to save data to our Arkivum local instance which is then encrypted and sent to our Arkivum store."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00802 Jobs to Job Boards from iTrent"
+    id="id-52677"
+    documentation="Integration of iTrent to job boards to send details of vacancies from iTrent Recuitment module."/>

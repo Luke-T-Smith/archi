@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Active Directory Federation Services"
+    id="id-52625"
+    documentation="AD Federation Services, allowing 3rd party systems to authenticate against UWE AD"/>

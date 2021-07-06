@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Casper"
+    id="id-72265"
+    documentation="Mac Deployment system ditribution/backup of packaged software, https://www.jamfsoftware.com/products/"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00063 Online store transaction to Agresso"
+    id="id-47020"
+    documentation="Purchases made using the on-line store are interfaced into General Ledger in Agresso. Some individuals have accounts on the Online Store enabling them to purchase on behalf of the University.&#xA;https://store.uwe.ac.uk"/>

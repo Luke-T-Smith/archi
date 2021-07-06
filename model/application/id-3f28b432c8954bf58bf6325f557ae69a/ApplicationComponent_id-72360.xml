@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artifactory"
+    id="id-72360"
+    documentation="Local Central Maven Repository of software artifacts / libraries for supporting software developments and releases - maven.uwe.ac.uk (Server: niven.uwe.ac.uk), https://www.jfrog.com/artifactory/"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notifier in-house database"
+    id="id-38313"
+    documentation="Tactical solution, a database, not centrally supported, used to overcome data sync issues, holds student registration on module status"/>

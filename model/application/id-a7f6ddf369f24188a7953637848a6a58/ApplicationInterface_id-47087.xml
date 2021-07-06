@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00135 Kinetics to SALTO"
+    id="id-47087"
+    documentation="Student number and name from Kinetics are provided to SALTO to control access to student accommodation buildings and rooms"/>

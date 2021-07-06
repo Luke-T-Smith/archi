@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="System Centre Configuration Manager"
+    id="id-72335"
+    documentation="Manage PCs (build, deploy applications, asset management)"/>

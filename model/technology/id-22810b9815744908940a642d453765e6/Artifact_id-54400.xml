@@ -1,0 +1,5 @@
+<archimate:Artifact
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISIS2 Extract"
+    id="id-54400"
+    documentation="SQL server database that gets refreshed overnight  - global set of student data&#xA;&#xA;&#xA;&#xA;It's like a master data store"/>

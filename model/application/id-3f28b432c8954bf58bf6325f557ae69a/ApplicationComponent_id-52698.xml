@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PIMS"
+    id="id-52698"
+    documentation="Estates project management - web forms to record info about projects, budgets, on site dates (replaced spreadsheets), part of Facilities Online specific to Estates, need permissions granted to access. Uses Archibus as a source of master data."/>

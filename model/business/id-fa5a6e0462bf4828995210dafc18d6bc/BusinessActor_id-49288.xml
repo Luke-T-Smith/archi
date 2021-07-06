@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enquirer"
+    id="id-49288"
+    documentation="Person with query to the Information Point - could be student, staff or visitor"/>

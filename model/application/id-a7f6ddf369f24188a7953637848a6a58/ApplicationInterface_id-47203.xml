@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00430 Staff to WAMS"
+    id="id-47203"
+    documentation="To set up staff on WAMS as master data and users. Includes a calculation of FTE hours.&#xA;210218:Status set to Current - assume this has replaced IF-00001"/>

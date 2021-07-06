@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00055 Symphony to Summon - resource availability response"
+    id="id-52481"
+    documentation="Response to query about library resource availability as a result of a search on Summon"/>

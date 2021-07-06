@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Primary Target Title"
+    id="id-46432"
+    documentation="Either equals the Programme title, &#xA;&#xA;but differs e.g. where different modes of attendance&#xA;&#xA;&#xA;&#xA;e.g. BsC Biomedical Science (SW) &lt;--- indicates mode of attendance for a sandwich course&#xA;&#xA;E.g. BsC Hons Biomedical Science (clinical (FT) - fulltime&#xA;&#xA;E.g. BsC Hons Biomedical Science (SW) - sandwich&#xA;&#xA;E.g. BsC Hons Biomedical Science (non clinical)&#xA;&#xA;Sometimes 1:1 Primary Award: Primary Target&#xA;&#xA;Sometimes 1:Many Primary Award: Primary Target&#xA;&#xA;THe name on the student's certificate of the award they got - can have a in brackets name e.g. (blood) - but wouldn't say full time v sandwich"/>

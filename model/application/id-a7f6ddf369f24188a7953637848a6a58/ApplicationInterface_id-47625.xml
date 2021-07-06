@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00099 Exams from ISIS to Exam Scheduler"
+    id="id-47625"
+    documentation="To load exams into exam scheduler"/>

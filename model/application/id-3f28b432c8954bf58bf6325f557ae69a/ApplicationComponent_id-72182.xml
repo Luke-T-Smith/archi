@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FreeRadius VM"
+    id="id-72182"
+    documentation="Used for EduRoam authentication"/>

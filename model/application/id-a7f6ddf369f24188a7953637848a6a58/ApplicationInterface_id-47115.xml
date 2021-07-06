@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00799 ISIS: portal - eligibility"
+    id="id-47115"
+    documentation="To work out the eligibility to display the documents on the portal screen that apply to that student and the award.GetEligibility"/>

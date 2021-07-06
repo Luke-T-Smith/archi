@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00133 ID Works to Continuum"
+    id="id-47695"
+    documentation="Latest card number is updated back into building access system (Continuum), Based on database triggers on the Photo ID table, card printed, access changed."/>

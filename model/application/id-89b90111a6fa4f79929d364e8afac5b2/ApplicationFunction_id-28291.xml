@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Courses"
+    id="id-28291"
+    documentation="For UWE course search (like our version of Amazon)&#xA;&#xA;courses.uwe.ac.uk&#xA;&#xA;(pulls in course fee info and other content related to course search results, and links e.g. to Open Days)"/>

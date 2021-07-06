@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISA Staff on Student Router"
+    id="id-72072"
+    documentation="Used to allow Staff to access their H: and S: drives when logging in to a Student PC"/>

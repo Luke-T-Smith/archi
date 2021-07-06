@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HESA Award Type (copy)"
+    id="id-46388"
+    documentation="INHERITED from Award Type at Programme level&#xA;&#xA;&#xA;&#xA;HESA number&#xA;&#xA;Needed in  target product&#xA;&#xA;See HESA definition - e.g. 01 is a foundation degree etc. Goes up to 25&#xA;&#xA;Autocalculated  - normally via mapping table&#xA;&#xA;Should not be manually maintained&#xA;&#xA;E.g. PGR, PGT, UG, Foundation degree, Other (diplomas)"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open-access search terminals (OPACs)"
+    id="id-72372"
+    documentation="Chromebox used to display Summon web page and a few other Library web pages, use of specific OPAC software no longer required once Chromeboxes are configured."/>

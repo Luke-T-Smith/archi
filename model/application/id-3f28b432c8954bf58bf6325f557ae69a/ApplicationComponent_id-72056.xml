@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Active Directory Rights Management"
+    id="id-72056"
+    documentation="Rigths Management server, to enable restricted access to documents, emails, etc."/>

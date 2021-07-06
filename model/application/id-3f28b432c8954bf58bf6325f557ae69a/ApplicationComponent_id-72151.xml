@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QuestionPoint"
+    id="id-72151"
+    documentation="Ask a Librarian / Help Desk. Web based service that manages queries that library staff can answer. Similar in concept to RMS."/>

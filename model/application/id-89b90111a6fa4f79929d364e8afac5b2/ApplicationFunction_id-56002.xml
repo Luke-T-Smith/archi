@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="People Pages"
+    id="id-56002"
+    documentation="mysite people profile - some attributes maintained in Sharepoint mysites e.g. photo here also synced to Exchange, Lync and Public Staff Profiles pages. Nighly sync job takes through data to 2010 externally facing web farm. Some attributes go to AD"/>

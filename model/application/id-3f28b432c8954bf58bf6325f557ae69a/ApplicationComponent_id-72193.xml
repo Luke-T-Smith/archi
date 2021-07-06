@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="admin.uwe.ac.uk"
+    id="id-72193"
+    documentation="ASP.NET MVC application providing various administration functions for ADTC"/>

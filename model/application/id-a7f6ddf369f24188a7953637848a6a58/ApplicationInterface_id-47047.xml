@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00142 ISIS:Blackboard - External Examiners"
+    id="id-47047"
+    documentation="External Examiner feed from ISIS to Blackboard - there several files between ISIS and Blackboard this is the staff_att_EE file. It links the external examiner to the course."/>

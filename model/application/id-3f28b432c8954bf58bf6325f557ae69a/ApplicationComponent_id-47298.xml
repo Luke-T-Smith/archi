@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft SQL Server"
+    id="id-47298"
+    documentation="Primary Database Platform running covering 400+ databases on 80+ servers"/>

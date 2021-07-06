@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00131 Online Modules data collection to Syllabus +"
+    id="id-47317"
+    documentation="Updates are loaded into Syllabus plus (on request), this used to be via spreadsheets which was prone to error, now uses load file format that Syllabus plus accepts"/>

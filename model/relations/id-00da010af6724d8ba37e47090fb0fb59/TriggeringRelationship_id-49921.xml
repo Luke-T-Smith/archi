@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collaborative Provision Partnerships proposing new programmes"
+    id="id-49921">
+  <source
+      xsi:type="archimate:BusinessEvent"
+      href="BusinessEvent_id-43132.xml#id-43132"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-49754.xml#id-49754"/>
+</archimate:TriggeringRelationship>

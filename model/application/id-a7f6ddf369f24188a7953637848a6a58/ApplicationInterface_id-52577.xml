@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00001 Staff details in WAMS"
+    id="id-52577"
+    documentation="Spreadsheets of staff details are downloaded from SAP HR then loaded manually into WAMS 2 times a year. Note some WAMS users can add/change staff details directly in WAMS between times to keep WAMS up to date.&#xA;210218:Marked retired as assume replaced by IF-00430 (i.e. been replaced with a BO report as part of HR online - see Jenny's document. Probably Midland created the custom report for them)"/>

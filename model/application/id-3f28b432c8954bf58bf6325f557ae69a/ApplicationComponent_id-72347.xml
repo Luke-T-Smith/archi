@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Forefront management server"
+    id="id-72347"
+    documentation="Management Server for Desktop Virus Protection  - I think that this should be called Endpoint now (check with MSAT)"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Box of Broadcast"
+    id="id-72233"
+    documentation="Service allowing the recording of TV programmes for later playback"/>

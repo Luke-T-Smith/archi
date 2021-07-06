@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="read only link"
+    id="id-52041">
+  <source
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_id-51948.xml#id-51948"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-51907.xml#id-51907"/>
+</archimate:AssociationRelationship>

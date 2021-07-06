@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00132 Continuum to ID Works"
+    id="id-47072"
+    documentation="ID Works reads Continuum database for details of card holders"/>

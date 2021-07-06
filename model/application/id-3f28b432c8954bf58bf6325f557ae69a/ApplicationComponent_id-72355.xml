@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QIP External DNS"
+    id="id-72355"
+    documentation="Internet accessible DNS server, pointing at uwe.ac.uk publicably accessible domains"/>

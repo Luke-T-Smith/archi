@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00151 ISIS to Blackboard - orgs"
+    id="id-47169"
+    documentation="Community ID passed in a file called 'orgs' between ISIS and Blackboard. This corresponds to a 'field' e.g. computing and enables content to be organized by the grouping. Not used much."/>

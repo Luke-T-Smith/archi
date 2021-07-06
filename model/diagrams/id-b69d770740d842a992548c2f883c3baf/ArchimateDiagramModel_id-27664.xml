@@ -1,0 +1,36 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Lifecycle View"
+    id="id-27664">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-67351"
+      font="1|Arial|10.0|2|WINDOWS|1|0|0|0|0|0|1|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#202020"
+      textAlignment="1"
+      fillColor="#afffff"
+      content="Blackboard">
+    <bounds
+        x="200"
+        y="140"
+        width="2133"
+        height="53"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-67353"
+      font="1|Arial|10.0|2|WINDOWS|1|0|0|0|0|0|1|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#202020"
+      textAlignment="1"
+      fillColor="#afffff"
+      content="PebblePad">
+    <bounds
+        x="1320"
+        y="80"
+        width="1072"
+        height="53"/>
+  </children>
+</archimate:ArchimateDiagramModel>

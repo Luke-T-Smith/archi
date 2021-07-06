@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00857 DELETE - ISIS:Address Lookup"
+    id="id-47377"
+    documentation="To enable staff to create new addresses for students. Quick search (House Number and postcode) or more complex searching."/>

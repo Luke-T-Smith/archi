@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Arkivum"
+    id="id-47629"
+    documentation="A large scale, long term digital archive, currently being used via a plugin for Eprints research repository data.  Has an on premise server that is used for cashing and encrypting files before sending them to Arkivum."/>

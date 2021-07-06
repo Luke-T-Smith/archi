@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00053 Summon to EZproxy"
+    id="id-47335"
+    documentation="Used to control access to subscribed journals in conjunction with CAS, ADFS and OpenAthens. Also used to access various databases."/>

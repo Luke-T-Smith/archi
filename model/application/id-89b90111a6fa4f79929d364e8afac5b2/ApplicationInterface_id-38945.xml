@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identity system from/to FIM new users"
+    id="id-38945"
+    documentation="This is a connector between FIM and the service which will take the person data (which does not have an identity attributes) and will allocate the identity attributes to it then return the data to FIM. It could be a database connector or a .NET development."/>

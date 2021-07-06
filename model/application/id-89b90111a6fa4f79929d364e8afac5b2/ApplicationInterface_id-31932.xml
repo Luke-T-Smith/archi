@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISIS to CRM (populates CRM Courses, and ISIS Runs Table)"
+    id="id-31932"
+    documentation="Course modules tagged as CPD, codes, associated runs, sites, run dates - nightly&#xA;&#xA;Reference data e.g. titles, ethnicity types etc was a one off feed"/>

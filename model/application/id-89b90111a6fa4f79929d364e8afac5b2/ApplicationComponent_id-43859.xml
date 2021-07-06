@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Legacy Email, BRL E-mail server"
+    id="id-43859"
+    documentation="Legacy mail system.  Service to be moved to Office 365"/>

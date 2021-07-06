@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00046 Other Library to Symphony - ILL"
+    id="id-47471"
+    documentation="Email response to ILL - to confirm e-Copy provided to requestor or to say it is not available"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00008 SAP Staff Records to ISIS"
+    id="id-46922"
+    documentation="REPLACED BY IC0405 Upload new members of staff - HR Admin extract data from SAP HR on a daily basis which they manually load to ISIS. Some manipulation may be required e.g. casual to permament move is new join in ISIS but not in SAP HR. Validation and exception reporting."/>

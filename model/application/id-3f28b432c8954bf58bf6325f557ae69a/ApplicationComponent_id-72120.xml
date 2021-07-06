@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DEWIS"
+    id="id-72120"
+    documentation="Algorithmic e-Assessment system for numerate subjects (http://www.cems.uwe.ac.uk/dewis). System designed for 'intelligent' automated feedback and for both summative and formative assessments. Student access either via Blackboard or directly using UWE auth"/>

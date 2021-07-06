@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00761 Student EN to ON"
+    id="id-46909"
+    documentation="Notify ISIS when a student has paid all fees and can be fully enrolled"/>

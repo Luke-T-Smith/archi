@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00311 FIM to Continuum staff"
+    id="id-46883"
+    documentation="Used to manage who has access to each building and rooms. FIM maintains a Card Database that holds staff and student photographs and is used for card production. This database is also used (using triggers) to update Continuum with new and changed staff."/>

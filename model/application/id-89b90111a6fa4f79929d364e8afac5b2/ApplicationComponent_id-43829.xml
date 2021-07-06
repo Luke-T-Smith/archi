@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Video Conferencing Endpoints, Legacy, Tandberg"
+    id="id-43829"
+    documentation="Room based video conferencing. End Points only. Have some limited integration with Polycom infrastructure&#xA;&#xA;Includes (or actually is?) Tandberg Edge 95 (Bower Ashton), think also used by HAS&#xA;&#xA;&#xA;&#xA;NB Also Tandberg 1700 - BBS mobile vcon kit"/>

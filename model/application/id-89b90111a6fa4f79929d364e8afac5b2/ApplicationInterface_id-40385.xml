@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scientia updater"
+    id="id-40385"
+    documentation="Scientia provided integration between Syllabus + and the reporting database. It only has the lastest version of the timetable and dates are in readable format."/>

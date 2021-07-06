@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00307 Staff and Students to Library Feed"
+    id="id-47063"
+    documentation="Perl scheduled program fetches  the data from ISIS, amalgamates it (e.g. if a student is also employed by the university and both accounts use the same UWE ID, Steve's code determines whether receive their staff e-mail address or student e-mail."/>

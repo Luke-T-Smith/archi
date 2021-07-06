@@ -1,0 +1,21 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roadmap view"
+    id="id-27805">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-53130"
+      font="1|Arial|10.0|2|WINDOWS|1|0|0|0|0|0|1|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#000000"
+      textAlignment="1"
+      fillColor="#afffff"
+      content="Contact Centre (ENGHOUSE)">
+    <bounds
+        x="187"
+        y="140"
+        width="590"
+        height="53"/>
+  </children>
+</archimate:ArchimateDiagramModel>

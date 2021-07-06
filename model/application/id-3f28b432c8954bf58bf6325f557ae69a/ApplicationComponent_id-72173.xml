@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exchange Online Protection"
+    id="id-72173"
+    documentation="Provides advanced SPAM/Malware/Virus protection for all incoming and outgoing emails.  Combined with protection of Exchange servers for multi-layered approach"/>

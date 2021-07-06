@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00438 Expenses to GL - not needed"
+    id="id-47041"
+    documentation="To provide GL transactions to Finance system that relate to staff expenses"/>

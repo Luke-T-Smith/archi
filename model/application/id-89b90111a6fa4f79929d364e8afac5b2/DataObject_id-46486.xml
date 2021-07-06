@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Module Type (copy)"
+    id="id-46486"
+    documentation="Possible values: Standard, Project, Masters dissertation, Professional Practice&#xA;&#xA;In future: converge on one type ie might get rid of module type&#xA;&#xA;&#xA;&#xA;NB different rules for different module e.g. no resit for Professional"/>

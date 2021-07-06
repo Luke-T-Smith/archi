@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNHLogs"
+    id="id-72147"
+    documentation="Simple logging system used by some FET web applications"/>

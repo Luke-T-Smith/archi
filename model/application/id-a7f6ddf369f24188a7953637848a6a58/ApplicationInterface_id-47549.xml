@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00411 Government gateway (out)"
+    id="id-47549"
+    documentation="Payroll data about taxes paid by each employee&#xA;Replaces IF-00025"/>

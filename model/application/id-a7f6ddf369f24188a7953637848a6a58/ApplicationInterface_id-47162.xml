@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00851 Piazza and Blackboard integration"
+    id="id-47162"
+    documentation="To integrate Piazza with Blackboard uses LTI link, activated as user clicks a link."/>

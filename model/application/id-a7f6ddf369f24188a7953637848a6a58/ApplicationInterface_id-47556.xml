@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00202 ISIS:CareerHub - Students"
+    id="id-47556"
+    documentation="Current Students to InfoHub, this pulls data from both ISIS tables and 'generic student' table maintained by FIM. (see IF-00313)."/>

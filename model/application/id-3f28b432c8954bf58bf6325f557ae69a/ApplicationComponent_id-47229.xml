@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Courses application"
+    id="id-47229"
+    documentation="ASP.NET MVC application delivering public courses information&#xA;http://www1.uwe.ac.uk/study/courses/"/>

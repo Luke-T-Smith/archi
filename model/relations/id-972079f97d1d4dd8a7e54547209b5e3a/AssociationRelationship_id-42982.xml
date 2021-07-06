@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SFTP script"
+    id="id-42982">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-42934.xml#id-42934"/>
+  <target
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-42950.xml#id-42950"/>
+</archimate:AssociationRelationship>

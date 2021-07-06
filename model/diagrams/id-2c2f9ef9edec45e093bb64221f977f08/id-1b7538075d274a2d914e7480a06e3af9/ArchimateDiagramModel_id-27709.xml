@@ -1,0 +1,23 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Test Implementation and migration view"
+    id="id-27709"
+    viewpoint="implementation_migration">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-30218"
+      font="1|Arial|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#e0ffe0">
+    <bounds
+        x="573"
+        y="293"
+        width="133"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_id-30219.xml#id-30219"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00147 Blackboard:ISIS - Marks"
+    id="id-46963"
+    documentation="Blackboard marks sent to ISIS, ISIS application reads a mark extract table from Blackboard, someone has to pull the marks across"/>

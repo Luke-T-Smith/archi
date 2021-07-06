@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00840 CRM to Sharepoint integration"
+    id="id-47498"
+    documentation="Standard plug-in between MS Dynamics CRM and SharePoint - used for document storage in SharePoint"/>

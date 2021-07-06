@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Employee Self Service Use"
+    id="id-56097"
+    documentation="Employees use to enter their own timesheets, expenses training booking, PDR, qualifications, personal details and request holidays.">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-33975.xml#id-33975"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-29421.xml#id-29421"/>
+</archimate:ServingRelationship>

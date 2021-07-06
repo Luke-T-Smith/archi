@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Project data service"
+    id="id-66420"
+    documentation="Interface of project details to Agresso so that the project can be set up and tracked i.e. income and spend on the project."/>

@@ -1,0 +1,11 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-60301">
+  <source
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_id-49655.xml#id-49655"/>
+  <target
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_id-60302.xml#id-60302"/>
+</archimate:TriggeringRelationship>

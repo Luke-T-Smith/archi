@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New book lists"
+    id="id-72334"
+    documentation="Page that shows recently purchased items, by subject area"/>

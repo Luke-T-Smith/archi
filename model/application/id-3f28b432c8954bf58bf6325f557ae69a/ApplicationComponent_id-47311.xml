@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External - LGS Pensions Administrator"
+    id="id-47311"
+    documentation="LGS Pensions Administrator gateway provided for secure upload/download of pensions related files"/>

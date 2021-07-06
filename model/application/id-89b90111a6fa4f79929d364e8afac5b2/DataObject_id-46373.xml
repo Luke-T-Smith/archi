@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Location of Study"
+    id="id-46373"
+    documentation="Could it be a calculated field as an aggregation of the locations of all the programme modules&#xA;&#xA;Needed for UKVI - licencing etc ask Noelle"/>

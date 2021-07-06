@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00838 CPD CRM to ISIS Student registrations"
+    id="id-46934"
+    documentation="To register students on ISIS from CPD CRM system. When students register via the portal, there is a real time web service call made by Dynamics CRM which adds the students details to the holding table. There is then a nightly batch process which transports the data from the holding table into ISIS proper."/>

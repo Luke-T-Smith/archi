@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ID activation - Applicant confirm webpage"
+    id="id-32196"
+    documentation="Web page reached via a link in an email to applicant for them to confirm their details v ISIS and then get email in return. Used for user ID activation."/>

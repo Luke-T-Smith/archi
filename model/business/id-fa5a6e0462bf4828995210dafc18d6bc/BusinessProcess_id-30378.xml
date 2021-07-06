@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Update student disabled status"
+    id="id-30378"
+    documentation="The disability data itself won’t be held, but relevant students numbers will be entered into a table named ‘A’ at our end (we don’t want to hold any details of why they are in that table). Entry into this data will be informed directly by Disability Services rather than ISIS, which doesn’t currently hold the necessary information."/>

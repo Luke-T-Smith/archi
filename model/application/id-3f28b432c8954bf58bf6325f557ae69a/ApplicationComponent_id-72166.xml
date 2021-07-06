@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DNS - QIP"
+    id="id-72166"
+    documentation="QIP DNS, primary DNS for PC's and external"/>

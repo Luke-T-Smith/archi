@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Dynamics CRM 2011 SPS"
+    id="id-47489"
+    documentation="Primary University CRM for Schools Partnership Service using Schools Liaison, to manage data from Edubase, managing outreach events with schools. Contacts, events, marketing lists/campaigns, attendance. Measure the success of events using UCAS data imported."/>

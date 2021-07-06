@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Internal Search - 2013 out of the box search"
+    id="id-56573"
+    documentation="Uses federated search and uses the 2007 internal search as a content source"/>

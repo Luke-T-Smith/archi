@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00301 ISIS:Blackboard - Staff to course"
+    id="id-47044"
+    documentation="Staff feed from ISIS to Blackboard - staff_att, used to link the member of staff to the course."/>

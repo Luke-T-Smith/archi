@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="QFR1-ATG01"
+    id="id-71022"
+    documentation="Windows server&#xA;&#xA;Q - indicates SQL db server&#xA;&#xA;FR1 - location&#xA;&#xA;ATG - the app this supports&#xA;&#xA;and 01/02 for db servers 1 and 2"/>

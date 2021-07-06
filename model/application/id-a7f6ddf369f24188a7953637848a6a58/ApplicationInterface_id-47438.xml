@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00038 LapSafe to Symphony"
+    id="id-47438"
+    documentation="As user swipes their cardand enters their PIN in the laptop locker terminal the details are checked in Symphony LMS. The details of the loan of the lap top are recorded on the LMS and its return."/>

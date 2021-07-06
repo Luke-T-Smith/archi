@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00791 Parking Eligibility from ISIS to TravelSmart"
+    id="id-47414"
+    documentation="Students with can apply for car parking permits. There eligibility depends on a number of attributes including term time address. This data is held in ISIS and interrogated by ODBC connection from Access database. Note disabled status is provided by Disability Services and not via this route."/>

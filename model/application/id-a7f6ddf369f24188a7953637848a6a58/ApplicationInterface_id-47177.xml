@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00846 Lynda.com and Blackboard"
+    id="id-47177"
+    documentation="To integrate Blackboard with Lynda.com. Uses LTI standard, activated as user clicks a link."/>

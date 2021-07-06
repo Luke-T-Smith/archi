@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCCM"
+    id="id-47511"
+    documentation="System Center Configuration Manager formerly Systems Management Server (SMS) is a systems management software product developed by Microsoft"/>

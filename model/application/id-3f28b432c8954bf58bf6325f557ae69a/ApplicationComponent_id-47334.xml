@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EZProzy"
+    id="id-47334"
+    documentation="IP prozy service.  Allows authentication for UWE users to web based databases and journals that rely on IP range (i.e. UWE).  For users not on campus."/>

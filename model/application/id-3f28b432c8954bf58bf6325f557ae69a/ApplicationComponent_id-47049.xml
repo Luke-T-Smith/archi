@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Symphony"
+    id="id-47049"
+    documentation="Library Management System. Keeps records of library items, their transactions, and their acquisition. Also provides user's web interface to their library account. LMS is shared by Bath &amp; Bath Spa Universities"/>

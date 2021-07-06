@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UCAS Database (was called Hercules)"
+    id="id-34842"
+    documentation="Info about Alevel results, student info, initially used to populate SITS e.g. when results come through. Lots of manual intervention and backwards and forwards convo and batch updates.&#xA;SITS is integrated by standard. But it works badly and ADT have to support this integration - often probs such as firewall - expensive to maintain. &#xA;https://www.ucas.com/sign-web-link&#xA;UCAS website - transaction available to you using odbc-link and xmllink.&#xA;&#xA;This allows you to capture the data in your own admissions and student systems.  Detailed information and instructions are available in&#xA;&#xA;the manuals for odbc-link and xml-link www.ucas.com/providers/system-guides."/>

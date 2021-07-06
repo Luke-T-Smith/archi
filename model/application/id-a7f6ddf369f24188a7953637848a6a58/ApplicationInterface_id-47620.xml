@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00746 Modules and Runs which are active"
+    id="id-47620"
+    documentation="Extract live module runs"/>

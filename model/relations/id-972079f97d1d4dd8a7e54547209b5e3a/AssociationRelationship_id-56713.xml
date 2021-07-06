@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Payment report"
+    id="id-56713"
+    documentation="To show what payments have been made into Pension Scheme by employee">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-30011.xml#id-30011"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-36438.xml#id-36438"/>
+</archimate:AssociationRelationship>

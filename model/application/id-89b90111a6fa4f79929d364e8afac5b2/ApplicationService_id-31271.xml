@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="New Books webpage"
+    id="id-31271"
+    documentation="Custom web page on LMS  - takes data about new books and displays it, uses SQLlite database."/>

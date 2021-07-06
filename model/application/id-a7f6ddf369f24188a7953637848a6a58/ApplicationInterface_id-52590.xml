@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00101 Government Gateway Import"
+    id="id-52590"
+    documentation="Statutory Information from Government Gateway (Tax codes, National Insurance No) to SAP HR. SAP polls the Gateway for updates 1 or 2 times a month. A list of what has been updated is also produced. In Year Movements (IYM) (tax code updates) (CSL - stud"/>

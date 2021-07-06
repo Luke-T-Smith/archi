@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="person record (no ID)"
+    id="id-43027"
+    documentation="Data attributes included would be:&#xA;&#xA;first name, second name, preferred name&#xA;&#xA;start date&#xA;&#xA;end date (optional)&#xA;&#xA;? do we need contract details? - depends on whether these are needed for FIM and AD. So if need to know department this is contract specific."/>

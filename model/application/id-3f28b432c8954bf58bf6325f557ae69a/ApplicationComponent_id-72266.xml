@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terminal Server Student External"
+    id="id-72266"
+    documentation="Terminal Servers, running Citrix XenApp used to publish student desktop with cut down functionality for external users"/>

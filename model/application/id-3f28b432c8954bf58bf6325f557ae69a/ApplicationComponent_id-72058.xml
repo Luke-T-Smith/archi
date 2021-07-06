@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EMC Management Consoles Terminal Server"
+    id="id-72058"
+    documentation="Terminal Server running various EMC management tools"/>

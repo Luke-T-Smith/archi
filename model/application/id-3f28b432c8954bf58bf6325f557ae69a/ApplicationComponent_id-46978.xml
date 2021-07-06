@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRM Portal"
+    id="id-46978"
+    documentation="Front end for external users to MS Dynamics CRM 2013, used for registrations and document upload/download/sharing."/>

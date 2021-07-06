@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Panopto"
+    id="id-47277"
+    documentation="Lecture capture and hosting, integrates with Blackboard"/>

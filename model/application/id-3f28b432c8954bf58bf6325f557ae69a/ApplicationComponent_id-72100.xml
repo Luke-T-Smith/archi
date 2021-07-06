@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Survey Monkey"
+    id="id-72100"
+    documentation="30/40 surveys on our account. Ethics committee have an overview of research related ones.&#xA;&#xA;NR: Survey Monkey considered unsecure, no DPA, Information Governance Forum looking in to this, May 2017. Recommended alternative: BOS Survey tool (no business support for this) or Qualtrics which RBI use"/>

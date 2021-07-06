@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00106 Successful Applicants from WCN to SAP"
+    id="id-47493"
+    documentation="Upload successful Applicants from e-recruitment software - Excel list of starters is extracted by HR from WCN and loaded via LSMW into SAP HR into staff infotypes one person at a time."/>

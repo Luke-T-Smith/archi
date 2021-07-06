@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00310 Staff from FIM to Archibus"
+    id="id-47055"
+    documentation="Provides staff master data to location and work request system. FIM to Archibus for staff is via 'Generic Staff' SQLserver table. This is a custom table maintained by FIM which is used as a source of information of staff. So this is not a full FIM controlled interface."/>

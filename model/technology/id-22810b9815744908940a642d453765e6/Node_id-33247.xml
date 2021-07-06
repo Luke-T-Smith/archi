@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Search Servers"
+    id="id-33247"
+    documentation="Given the quantity of video searches on our hosted servers, we break out dedicated search server clusters that interact with our database servers."/>

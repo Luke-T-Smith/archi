@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Step 9 Summon to Service Provider"
+    id="id-41501"
+    documentation="User details are checked against the sub-scriber details at Service Provider, if OK they get to access the e-resource"/>

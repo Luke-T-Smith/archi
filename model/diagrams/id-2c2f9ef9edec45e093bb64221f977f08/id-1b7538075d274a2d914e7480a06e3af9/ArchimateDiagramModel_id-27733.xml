@@ -1,0 +1,38 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Desktop Lifecycle"
+    id="id-27733">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-34027"
+      font="1|Arial|10.0|2|WINDOWS|1|0|0|0|0|0|1|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#e0ffe0">
+    <bounds
+        x="67"
+        y="73"
+        width="464"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_id-34028.xml#id-34028"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-34029"
+      font="1|Arial|10.0|2|WINDOWS|1|0|0|0|0|0|1|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#e0ffe0">
+    <bounds
+        x="536"
+        y="73"
+        width="397"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_id-34030.xml#id-34030"/>
+  </children>
+</archimate:ArchimateDiagramModel>

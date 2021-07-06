@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00049 Aggregators/publishers to Symphony LMS via EDI - order response"
+    id="id-47579"
+    documentation="As a result of aggregator receiving confirmed order they may respond with an 'order response' e.g. could include RFID tag details attached to the title, bar codes. Note not all aggregators use EDI in the same way."/>

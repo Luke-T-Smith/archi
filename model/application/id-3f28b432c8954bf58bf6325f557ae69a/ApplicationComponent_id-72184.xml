@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Custom Symphony reports"
+    id="id-72184"
+    documentation="Perl scripts to do custom actions on Symphony (e.g. EDI processing)"/>

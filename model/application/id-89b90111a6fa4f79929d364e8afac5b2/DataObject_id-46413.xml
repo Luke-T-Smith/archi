@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ECTS Credit Rating"
+    id="id-46413"
+    documentation="European credit rating standard&#xA;&#xA;When student gets transcript, will show their credit rating against module&#xA;&#xA;Calculated field = module credit/2"/>

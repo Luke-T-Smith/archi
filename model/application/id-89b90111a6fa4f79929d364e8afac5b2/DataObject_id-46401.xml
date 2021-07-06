@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Module Code"
+    id="id-46401"
+    documentation="UWE FIELD + Unique Code + Credit + Level&#xA;&#xA;&#xA;&#xA;eg USSKCK-30 - 0&#xA;&#xA;USS - relates to field of applied sciences (NB field loosely corresponds to depts)&#xA;&#xA;KCK - a unique 3 char id (could be letters or numbers)&#xA;&#xA;30 = number of credits&#xA;&#xA;0 = level"/>

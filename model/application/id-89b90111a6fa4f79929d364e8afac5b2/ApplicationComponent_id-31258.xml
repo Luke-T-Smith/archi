@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CAS"
+    id="id-31258"
+    documentation="Central Authentication Service - used in conjunction with OpenAthens and EzyProxy"/>

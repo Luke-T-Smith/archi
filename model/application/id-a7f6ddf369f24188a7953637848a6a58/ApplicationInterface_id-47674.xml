@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00179 Student data to CRM (2013)"
+    id="id-47674"
+    documentation="To provide up to date student details (contacts are updated), includes the following: GetReferenceData&#xA;GetAwardStructure, GetModuleRuns, GetStudent, Get Student Modules and Status, Get Module Run and results&#xA;Get Student Module results, Post Student, PostModuleEnrolment"/>

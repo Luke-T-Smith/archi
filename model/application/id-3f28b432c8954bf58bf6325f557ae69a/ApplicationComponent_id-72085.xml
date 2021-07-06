@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elk"
+    id="id-72085"
+    documentation="Collects and processes logs from myUWE and ISA, providing a Web interface for analysing and interrogating the logs - elk.uwe.ac.uk"/>

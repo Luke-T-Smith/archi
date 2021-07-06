@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00020 Staff Expenses to GL"
+    id="id-47014"
+    documentation="NO LONGER NEEDED AS EXPENSES ARE ALL DONE IN AGRESSO Transfer staff expenses to GL -There is a separate file produced for each staff expense run (this is not connected to the payroll file)."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VMWare"
+    id="id-72250"
+    documentation="vmware ESX hosts"/>

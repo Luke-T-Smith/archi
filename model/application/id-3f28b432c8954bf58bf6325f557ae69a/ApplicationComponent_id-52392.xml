@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AutoCAD"
+    id="id-52392"
+    documentation="Plugged into Archibus, architecture drawing tool."/>

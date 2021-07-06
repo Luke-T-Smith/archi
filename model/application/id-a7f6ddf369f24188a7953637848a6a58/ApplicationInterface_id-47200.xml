@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00845 PebblePad and Blackboard"
+    id="id-47200"
+    documentation="To integrate PebblePad with Blackboard - uses standard for integration between learning tools (LTI), activated a user clicks a link."/>

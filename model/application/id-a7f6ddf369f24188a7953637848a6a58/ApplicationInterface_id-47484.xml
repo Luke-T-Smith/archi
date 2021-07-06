@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00174 Registrations to CRM Lite from public web"
+    id="id-47484"
+    documentation="To Bring registrations from public facing web page to the CRM front end used by CRM team to add the contacts etc to the CRM system."/>

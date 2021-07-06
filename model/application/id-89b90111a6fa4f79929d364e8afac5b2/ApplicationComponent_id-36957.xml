@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRM Web Front End to MS CRM Lite"
+    id="id-36957"
+    documentation="Web Front End to Microsoft CRM, developed by RBI/ATG, used for data processing and event management"/>

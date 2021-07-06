@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validate"
+    id="id-47553"
+    documentation="Passport and visa scanning and authentication software, used for storing passport and visa images in accordance with UWE's HTS licence with UKVI."/>

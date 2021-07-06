@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Book Sorter"
+    id="id-52654"
+    documentation="Book sorter.  System that checks in and sorts books into bins e.g. level 4 books etc. (at Frenchay only)"/>

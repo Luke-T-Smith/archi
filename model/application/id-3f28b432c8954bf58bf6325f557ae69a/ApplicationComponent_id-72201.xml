@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FET Software Library"
+    id="id-72201"
+    documentation="Mac Software Library.  Probably contains sw waiting to be packaged into CASPER.  Will be superceded by Casper"/>

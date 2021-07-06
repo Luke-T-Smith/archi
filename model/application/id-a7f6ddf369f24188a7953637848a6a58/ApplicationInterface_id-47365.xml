@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00102 Payroll Deductions"
+    id="id-47365"
+    documentation="Import files from Child Care vouchers, Bike Scheme etc into SAP HR for payroll purposes"/>

@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SSTA-SAP03 SQL Server"
+    id="id-42664"
+    documentation="SAP upgrade underway, SAP moving to the HA Group"/>

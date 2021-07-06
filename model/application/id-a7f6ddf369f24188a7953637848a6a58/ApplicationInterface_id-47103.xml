@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00815 ISIS to MyUWE HEAR record"
+    id="id-47103"
+    documentation="To display HEAR record on portal. &#xA;The Higher Education Achievement Report (HEAR) at UWE Bristol is an electronic report that will capture academic achievements and extra curricular activities during students time at the University.&#xA;What type of information will HEAR capture?&#xA;-  personal details.&#xA;Information on student qualification.&#xA;Details on the modules studied and  results.&#xA;Additional information on student UWE Bristol verified extra curricular achievements."/>

@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subscription update"
+    id="id-31304">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-31229.xml#id-31229"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-31218.xml#id-31218"/>
+</archimate:FlowRelationship>

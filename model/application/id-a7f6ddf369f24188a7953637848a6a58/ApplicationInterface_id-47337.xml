@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00512 HSC CPD Admissions DB"
+    id="id-47337"
+    documentation="Maintain separate db of students and marks for HSC CPD students.? NHS access this db??"/>

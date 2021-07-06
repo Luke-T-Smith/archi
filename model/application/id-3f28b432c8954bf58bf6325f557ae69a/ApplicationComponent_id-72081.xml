@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CPD Database"
+    id="id-72081"
+    documentation="This is the old HLS CPD application and allocation system for NHS contracts.  Has been retired and out of service from students perceptive, database is read-only and still in use by cpd admin for historic data - will be retired once the business confirm its not needed."/>

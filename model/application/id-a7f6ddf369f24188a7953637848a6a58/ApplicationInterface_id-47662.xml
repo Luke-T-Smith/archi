@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00737 ISIS2_logs_filecopy DELETE"
+    id="id-47662"
+    documentation="Archive output from ISIS batch jobs to Business Systems folder"/>

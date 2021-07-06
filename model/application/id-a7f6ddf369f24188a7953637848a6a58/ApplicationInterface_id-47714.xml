@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00083 Room booking to timetable"
+    id="id-47714"
+    documentation="Room booking between web application and timetabling system (two way real time interface)"/>

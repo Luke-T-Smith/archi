@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Dynamics CRM 2011 FBL and FET CPD"
+    id="id-72174"
+    documentation="Primary University CRM for FBL &amp; FET CPD using Recruitment module to manage enquiries and short courses. Data comes from CRM Lite. Record contact, who pays for it, organising groups, tracks finances. Manual links to WPM. Can convert 'lead' to a 'course' and track registered and payments."/>

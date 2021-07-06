@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00805 ISIS to Assessment Data Check"
+    id="id-47527"
+    documentation="Feed from ISIS to Assessment Data Check (aka Assessment Manager) so that academic staff can edit submissions"/>

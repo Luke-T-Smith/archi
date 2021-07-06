@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00807 ISIS:UWE Closure database"
+    id="id-46968"
+    documentation="To look up dates for calculation of submissions, closure dates for items etc."/>

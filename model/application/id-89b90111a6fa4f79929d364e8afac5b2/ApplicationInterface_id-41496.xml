@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Step 8 Open Athens to Summon"
+    id="id-41496"
+    documentation="Sends user details (encrypted) of logged on user"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00163 GL trans code to BI"
+    id="id-47405"
+    documentation="Transcation code feed to Business Intelligence data warehouse from Agresso Finance"/>

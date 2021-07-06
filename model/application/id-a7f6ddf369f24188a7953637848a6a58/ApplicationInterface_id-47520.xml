@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00009B Pension Files to LGS"
+    id="id-47520"
+    documentation="REPLACED BY 412 LGS pension scheme payments are collated in spreadsheets using reports from SAP HR before being uploaded to Pension Administrator's portals (Local Government scheme)."/>

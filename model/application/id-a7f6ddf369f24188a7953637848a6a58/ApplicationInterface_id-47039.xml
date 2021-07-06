@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00853 Tuition Fees Transfer"
+    id="id-47039"
+    documentation="TO BE interface to replace IF-00061 as part of the new SOA Hybrid Integration architecture required for the Student Journey Project. Will enable us to decouple from ISIS ahead of a new SIS (student information system)&#xA;Note: Tuition fees which are raised in ISIS are sent to Agresso for raising invoices in Accounts Receivable in Agresso. This also includes any updates to the student master data."/>

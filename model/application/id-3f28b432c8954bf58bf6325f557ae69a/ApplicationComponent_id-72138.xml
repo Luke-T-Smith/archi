@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FET Software Sales"
+    id="id-72138"
+    documentation="A system to manage and control access to certain software which, while available from the Software for Home system, must be purchased from the UWE eStore. Includes the &quot;softwaresales&quot; MySQL database on Web00."/>

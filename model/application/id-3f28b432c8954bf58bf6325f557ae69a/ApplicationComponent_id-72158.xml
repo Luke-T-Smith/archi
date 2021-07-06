@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Custom forms (e.g. digitisation request; workshop bookings)"
+    id="id-72158"
+    documentation="Perl script or HTML forms to do custom actions"/>

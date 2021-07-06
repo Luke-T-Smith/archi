@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microsoft Dynamics CRM 2011 Marketing/IBST"
+    id="id-47572"
+    documentation="Primary University CRM for IBST, Marketing using Marketing Module (inc Event Management),  also used by corporate relations. Records attendance at events, used for example for staff development sessions for ITS, also external events. Marketing lists can be created to send out email list to market the event to known contacts."/>

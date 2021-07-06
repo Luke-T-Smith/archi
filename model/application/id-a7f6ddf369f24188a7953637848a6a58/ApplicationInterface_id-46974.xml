@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00816 Confirm applicant"
+    id="id-46974"
+    documentation="Applicant is sent an email which contains a link to a web page. They enter details on this page and then if their details are correct they are sent an email with their logon credentials"/>

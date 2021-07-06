@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00824 CareerHub to CareerFairPlus"
+    id="id-47350"
+    documentation="Data about employers from CareerHub via API to CareerFairPlus app"/>

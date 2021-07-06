@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00200 FIM:Agresso Staff"
+    id="id-47028"
+    documentation="Maintains Staff Details in Agresso for Web requisitioning. This interface updates Agresso database table from FIM - this is a custom table from which Agresso tables are updated by subsequent processing. Agresso has its own user-IDs. User can also be created directly in Agresso."/>

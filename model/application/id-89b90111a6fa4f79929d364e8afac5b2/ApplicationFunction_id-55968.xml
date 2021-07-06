@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SETTS Room Booking Website"
+    id="id-55968"
+    documentation="Timetabling / room booking&#xA;&#xA;Might be authenticated, but is publicly accessible. Students or others can use off site&#xA;&#xA;Dave Spiller wrote, possibly uses brand provider"/>

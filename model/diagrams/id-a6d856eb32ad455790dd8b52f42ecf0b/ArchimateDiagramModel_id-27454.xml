@@ -1,0 +1,22 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ecosystem view"
+    id="id-27454">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-62814"
+      font="1|Arial|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#4584d3">
+    <bounds
+        x="110"
+        y="180"
+        width="87"
+        height="67"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-28698.xml#id-28698"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TravelSmart"
+    id="id-47413"
+    documentation="Student Parking Applications - via MyUWE parking tab (recorded in ISIS), produces letters/emails and permits. If pay up front - need to buy via UWE store, manually matched before it is issued."/>

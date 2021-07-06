@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FET Software Database"
+    id="id-72139"
+    documentation="A system to record and manage records of the software available to FET students and the rooms where it is available. Includes the &quot;software&quot; MySQL Database on Web00."/>

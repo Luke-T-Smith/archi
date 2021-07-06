@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exam scheduler"
+    id="id-47440"
+    documentation="Exam Scheduling package. SQLserver database&#xA;ClickOnce user interface&#xA;Gives personal view of exam timetable via myUWE portal"/>

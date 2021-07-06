@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00125 SITS:CRM - Applicants"
+    id="id-46930"
+    documentation="Import applications from a spreadsheet; Includes Taylors, City of Bristol, Hartpury, Law Cab (similar formats). Taylors also send a spreadsheet of 1st and 2nd years who are coming to UWE next yearBulkUploadofApplicants"/>

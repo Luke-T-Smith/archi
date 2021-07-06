@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00415 Payroll deductions from External Organisations (in)"
+    id="id-47301"
+    documentation="Data to set up payroll deductions, provided from various external organisations such as Busy Bees, staff association etc"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ambassador system"
+    id="id-40908"
+    documentation="Access database ( Formstack forms used to populate it, filled in by student ambassadors). Stef Olive maintains database."/>

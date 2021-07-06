@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00421 Email Reports"
+    id="id-47719"
+    documentation="Used to distribute fixed /read only reports e.g. to managers"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00061 Tuition Fees Transfer"
+    id="id-47005"
+    documentation="Tuition fees which are raised in ISIS are sent to Agresso for raising invoices in Accounts Receivable in Agresso. This also includes any updates to the student master data. TO BE replaced by IF-00853"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formstack SAAS Web Form Builder used for Events registrations"
+    id="id-43756"
+    documentation="Formstack is an online form builder that enables users to create any type of online form, including surveys, contact forms, event registrations and order forms. Users can then integrate the forms into their websites and begin collecting data. The application allows for organizations to create the forms without any programming, software or special skills required.&#xA;&#xA;&#xA;&#xA;Registrations for the majority of UWE events are managed through Formstack, the only exception to this is UG Open Days where registrations are held within SITS through a basic data capture system"/>

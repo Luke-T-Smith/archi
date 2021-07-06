@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRM Course (based on either i) ISIS Modules, or ii) SITS Short Course or iii) Manually entered courses"
+    id="id-31949"
+    documentation="Part manual entry, part feed from ISIS, part feed of short courses from SITS"/>

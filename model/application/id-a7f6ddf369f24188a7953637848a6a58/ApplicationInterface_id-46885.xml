@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00072 Customer ID from Agresso to Kinetics"
+    id="id-46885"
+    documentation="Customer ID from Agresso into Kinetics so that can invoice students/customers for accommodation. AgressoKineticsCustID"/>

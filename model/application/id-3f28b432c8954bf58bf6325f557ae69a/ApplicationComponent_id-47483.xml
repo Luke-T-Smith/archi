@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRM Lite"
+    id="id-47483"
+    documentation="Web Front End to Microsoft CRM, developed by RBI/ATG, used for data processing and event management. Registrations taken from UWE public website uses Cereus. E.g. lecture series, short course. Users are internal CRM staff, reads a database of registrations captured from public web.  Converts the registrations - creates or updates the contact in CRM 2011, which is common across the different 'business units' use of CRM 2011. Also provides an easier end user interface. Manages duplicate contacts."/>

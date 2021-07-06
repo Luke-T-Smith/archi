@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telephone Exchange, Alcatel OXE"
+    id="id-38009"
+    documentation="Used by staff and the switchboard operators to route calls to telephones&#xA;&#xA;Siemens ISDX - ISDX phone system supporting analogue phones&#xA;&#xA;Note: 4760 is the Management system for Alcatel OXE"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MIM User Admin Portal"
+    id="id-72292"
+    documentation="Microsoft Identity Manager: Services and Web Application, currently providing ADmin. staff with a Portal to maintain AD Security and Email Groups"/>

@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="data monitoring cables"
+    id="id-37565">
+  <source
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-37536.xml#id-37536"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-37541.xml#id-37541"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Call Centre System, Contact Centre"
+    id="id-71008"
+    documentation="NB there's also Soft Wallboard - the Display system for Call Centre activities&#xA;&#xA;NB GSM Gateway - Gateway between OXE and GSM network for fixed to mobile telephone calls - Route calls via an alternative PSTN connection."/>

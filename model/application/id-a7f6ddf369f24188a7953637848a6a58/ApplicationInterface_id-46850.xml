@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00318 ISIS to FIM - person attributes"
+    id="id-46850"
+    documentation="Person details from ISIS in a file to FIM to control access of staff and students (mainly to myUWE portal)."/>

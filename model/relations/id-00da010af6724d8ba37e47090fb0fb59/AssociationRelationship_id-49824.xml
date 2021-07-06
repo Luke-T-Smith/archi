@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="online payslip"
+    id="id-49824">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-31594.xml#id-31594"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-31592.xml#id-31592"/>
+</archimate:AssociationRelationship>

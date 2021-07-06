@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Staff Hub - operational data store"
+    id="id-46843"
+    documentation="HR staff data held at UWE (primarily for Identity Management and Staff integrations) but mastered in HR system (ITrent)"/>

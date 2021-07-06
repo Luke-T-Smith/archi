@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00051 Symphony to WPM - fines to pay"
+    id="id-47424"
+    documentation="Fines on the LMS are paid for via a link to WPM."/>

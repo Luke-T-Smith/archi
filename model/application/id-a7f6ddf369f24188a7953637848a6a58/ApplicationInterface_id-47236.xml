@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00832 Monitoring data to LANDESK"
+    id="id-47236"
+    documentation="Various systems and network monitoring systems could interface data to LANDESK for reporting and alerting purposes. SCOM is just one example"/>

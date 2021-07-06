@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00432 Staff to FIM from ODS"
+    id="id-47193"
+    documentation="To send staff identities to FIM for dessemination to other systems"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service: GET ID"
+    id="id-43033"
+    documentation="this service will call the identity allocation service when a person record has been received by FIM that needs identities."/>

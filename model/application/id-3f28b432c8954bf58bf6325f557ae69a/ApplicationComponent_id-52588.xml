@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWE Closure database"
+    id="id-52588"
+    documentation="Database holding term dates etc. Used by systems such as ISIS to work out submission dates."/>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="workflows"
+    id="id-31277">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-31273.xml#id-31273"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-31229.xml#id-31229"/>
+</archimate:ServingRelationship>

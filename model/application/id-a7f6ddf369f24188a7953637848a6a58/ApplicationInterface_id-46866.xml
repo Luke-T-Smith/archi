@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00316 ISIS to FIM for portal access"
+    id="id-46866"
+    documentation="Logic derives data about portal access from data in ISIS and passes it to FIM. Some fields on the file are no longer used by FIM."/>

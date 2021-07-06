@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00831 LANDESK process and SCCM"
+    id="id-47512"
+    documentation="Integration between LANDESK ITSM and SCCM software deployment software to enable automated software installation processes. Other platforms will require additional integration (e.g. Casper for MAC)."/>

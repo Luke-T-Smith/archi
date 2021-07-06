@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00312 FIM to Generic Staff table"
+    id="id-46896"
+    documentation="Generic staff table populated from FIM - used by a variety of systems as a source of users where full FIM controlled access is not required"/>

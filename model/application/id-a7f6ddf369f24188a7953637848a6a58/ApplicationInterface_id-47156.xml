@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00818 Financial statement to portal"
+    id="id-47156"
+    documentation="web service calls Agresso stored procedure to return a student's financial statement for display in the portal"/>

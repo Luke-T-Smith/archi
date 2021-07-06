@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Provider"
+    id="id-41486"
+    documentation="This is the service which gives access to the e-resource"/>

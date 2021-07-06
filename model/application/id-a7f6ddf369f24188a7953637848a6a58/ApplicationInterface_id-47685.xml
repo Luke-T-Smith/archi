@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00084 Tablet room booking"
+    id="id-47685"
+    documentation="Room booking between tablet on door application and timetabling system (two way real time interface)"/>

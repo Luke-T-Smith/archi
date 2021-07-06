@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00420 Email Alerts"
+    id="id-47275"
+    documentation="To alert user to an action they need to take in HR system e.g. approval of holiday."/>

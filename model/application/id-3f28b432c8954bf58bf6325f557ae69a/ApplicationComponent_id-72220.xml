@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VeeamOne"
+    id="id-72220"
+    documentation="Monitoring tool for VMWare"/>

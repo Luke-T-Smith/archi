@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00822 MyUWE announcements"
+    id="id-47107"
+    documentation="Syllabus+ (students) and ISIS (staff)  data to support myUWE announcements. See IF-00767 for student reps to be included as though they are staff. There is a hierarchy of groups from activity to field of study using data from Syllabus Plus and ISIS. Plus the staff who are entitled to make the announcement (from ISIS)."/>

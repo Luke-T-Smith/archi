@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISIS to Infohub"
+    id="id-30649"
+    documentation="Could read Career Hub for the set of students to synchronise&#xA;&#xA;Reads their data from ISIS extract database&#xA;&#xA;Adds in new students not on career hub&#xA;&#xA;Creates data in format need for career hub staging table."/>

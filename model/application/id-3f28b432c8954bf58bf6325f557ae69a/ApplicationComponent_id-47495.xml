@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External - HESA"
+    id="id-47495"
+    documentation="HESA gateway provided for secure upload of HESA files - staff and student data. Note external reporting team in Academic services use this as well as HR."/>

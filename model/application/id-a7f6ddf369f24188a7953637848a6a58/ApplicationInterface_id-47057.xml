@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00010 FIM:SITS - Provisioning Staff to SITS"
+    id="id-47057"
+    documentation="FIM provisions all staff to SITS. Within SITS staff such as in the Admissions team are then given system access within SITS to allow access to SITS both in client and/or portal. This includes staff in Admissions, International Student Recruitment, Marketing, ITS and Faculty staff. Also changes and end dates of leavers. FIM maintains a person table."/>

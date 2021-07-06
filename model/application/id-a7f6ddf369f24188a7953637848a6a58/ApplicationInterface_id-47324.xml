@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00437 SAP HR to ODS interim interface"
+    id="id-47324"
+    documentation="To enable early implementation of new identity allocation without changing HR system"/>

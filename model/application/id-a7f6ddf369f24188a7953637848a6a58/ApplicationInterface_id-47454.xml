@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00111 ISIS to SAP HR TSU timesheet"
+    id="id-47454"
+    documentation="ISIS to SAP HR TSU timesheet. Temporary Staff Unit (TSU) timesheets completed in ISIS by support workers during month then downloaded to shared drive and uploaded into SAP HR by payroll dept."/>

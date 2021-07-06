@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Routine to unique AWS S3 storage"
+    id="id-57647">
+  <source
+      xsi:type="archimate:Artifact"
+      href="Artifact_id-54400.xml#id-54400"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-56078.xml#id-56078"/>
+</archimate:RealizationRelationship>

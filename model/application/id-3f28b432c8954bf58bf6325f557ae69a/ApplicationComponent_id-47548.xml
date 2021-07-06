@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External - Government Gateway"
+    id="id-47548"
+    documentation="Government Gateway gateway provided by HMRC for secure upload/download of Gatewayfiles"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00300 User ids from ISIS to FIM"
+    id="id-46873"
+    documentation="Produce new user ids in FIM using data from ISIS."/>

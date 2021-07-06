@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SimpleTest Unit Testing"
+    id="id-72144"
+    documentation="Unit Testing framework for PHP. Used by some FET web-applications"/>

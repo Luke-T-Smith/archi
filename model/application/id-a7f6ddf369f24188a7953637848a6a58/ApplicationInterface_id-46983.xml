@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00121 SITS:ISIS - International Payments"
+    id="id-46983"
+    documentation="Scholarship table from SITS information for online Registration to ISIS (orip_stutable) -individual student's fee structure (taking into account bursaries and scholarships)."/>

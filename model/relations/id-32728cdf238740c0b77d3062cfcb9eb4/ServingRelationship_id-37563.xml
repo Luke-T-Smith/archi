@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="USB extension cable"
+    id="id-37563">
+  <source
+      xsi:type="archimate:Node"
+      href="Node_id-37528.xml#id-37528"/>
+  <target
+      xsi:type="archimate:Device"
+      href="Device_id-37530.xml#id-37530"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LaundryView"
+    id="id-37541"
+    documentation="monitors and communicates status of machines"/>

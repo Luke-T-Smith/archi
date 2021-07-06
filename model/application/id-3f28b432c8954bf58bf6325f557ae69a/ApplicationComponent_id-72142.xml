@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FET Alerts"
+    id="id-72142"
+    documentation="Simple alerts email and logging system used by some FET web applications"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00080 BACS to Agresso Business World"
+    id="id-47007"
+    documentation="BACS transactions to Agresso - e.g. direct debit"/>

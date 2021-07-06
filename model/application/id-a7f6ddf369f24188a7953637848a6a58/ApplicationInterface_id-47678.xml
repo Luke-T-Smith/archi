@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00860 Arkivum local server to Arkivum"
+    id="id-47678"
+    documentation="A local server that the library has direct access to via widows file share, this is to add private data that the library would not want to be publicly available (e.g that would need a signature / authorisation to view) .  These files when placed on the server are encrypted then sent to our Arkivum store."/>

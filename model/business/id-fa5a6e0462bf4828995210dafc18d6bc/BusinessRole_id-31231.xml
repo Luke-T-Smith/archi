@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publishers/Aggregators"
+    id="id-31231"
+    documentation="There are various EDI relationships with aggregators and publishers not all use all data flows."/>

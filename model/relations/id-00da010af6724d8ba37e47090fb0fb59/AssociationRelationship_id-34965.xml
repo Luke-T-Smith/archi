@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Writes reports"
+    id="id-34965"
+    documentation="In response to need to access archived data, a few skilled people in HR would be able to run queries to access the archive.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-30184.xml#id-30184"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-34962.xml#id-34962"/>
+</archimate:AssociationRelationship>

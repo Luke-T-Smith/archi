@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00064 Rent feed: Kinetics to Agresso"
+    id="id-47032"
+    documentation="Rent fees which are raised in Kinetics interfaced to Agresso so that student AR account is updated."/>

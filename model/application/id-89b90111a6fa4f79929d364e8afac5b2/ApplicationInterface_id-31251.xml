@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lost book student invoice"
+    id="id-31251"
+    documentation="This is currently a spreadsheet that is sent via email and loaded manually into Agresso using BIF, potential to automate."/>

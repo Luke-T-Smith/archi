@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00772 Module Forecasting/Enrolment counts"
+    id="id-47613"
+    documentation="Provide WAMS with data on module enrolments - use last year's data as a base. Student numbers by module run."/>

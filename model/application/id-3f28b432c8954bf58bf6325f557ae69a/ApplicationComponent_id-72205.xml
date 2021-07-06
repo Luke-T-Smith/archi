@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WSUS"
+    id="id-72205"
+    documentation="Windows Update system to distribute updates to PCs"/>

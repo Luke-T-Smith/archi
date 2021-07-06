@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NAS Storage"
+    id="id-45485"
+    documentation="Does CIFS or NFS&#xA;&#xA;- Drives: H, P, T, S for the CIFS (includes all ITS drive mappings) (Some students are still using H drive, was never decommissioned when Office 365 opened to students, use of it mushrooms at student online submission time of year). Tdrive is mainly for lecturers to put content for students, but less used now in favour of BB. P- profiles. H - used by staff and students, staff freq backup email archives to the h:drive (no email archive solution). Offie 365 will be offered to staff soon. S drive - general place to put documents - in lieu of document retention strategy that would direct people to archive properly.  S drive usage could be replaced with Sharepoint usage for doc management&#xA;&#xA;- Drives: FET have some drive mappings for unix,linux and mac via NFS&#xA;&#xA;NFS also used for some backend systems: ISIS (&quot;unload&quot; - nightly dump of db) and MyUWE (4 Unix boxes, NFS mounted to one, shared through 4)&#xA;&#xA;&#xA;&#xA;Roughly 19 TB"/>

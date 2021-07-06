@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00306 Users from FIM to AD"
+    id="id-47205"
+    documentation="Users from FIM to AD - staff and students. For access to PCs and a range of systems. AD attributes are used by Sharepoint."/>

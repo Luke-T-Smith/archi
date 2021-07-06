@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00112 Students to Exam Scheduler"
+    id="id-47622"
+    documentation="To pull students into Exam Scheduller - links between exam and student = allocation in Exam Scheduler"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00402 Cost centre manager to HR"
+    id="id-47373"
+    documentation="To identify which person in the organisation hierarchy is the cost centre manager."/>

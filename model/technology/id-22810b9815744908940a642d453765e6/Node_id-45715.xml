@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solaris VMware Platform Consolidated"
+    id="id-45715"
+    documentation="All LIbrary services, ISIS, MyUWE portal, Consolidation Servers for www. are on Solaris too - so could show more platforms. &#xA;&#xA;MyUWE environment has similar environment to ISIS - has 4 servers, utlises the NAS&#xA;&#xA;Library services - some of - are being moved on to Consolidation Servers. (see Nick Eaton). &#xA;&#xA;Plan: gradually moving Library - some of - to Consolidation Servers. Currently a shared service with Bath Spa (contact: lawrence), hosted and managed by UWE&#xA;&#xA;Plan: MyUWE -> linux platform and SAN (and uses NAS not SAN currently)&#xA;&#xA;NB web was put on CMS, internal web on Intranet, www is now a set of redirects - via consolidation servers.&#xA;&#xA;Also couple of remaining standalone, legacy Solaris boxes"/>

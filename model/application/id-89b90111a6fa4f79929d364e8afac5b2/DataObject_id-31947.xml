@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Course Groups (based on the courses from SITS)"
+    id="id-31947"
+    documentation="Course Group ID from SITS can not be &quot;trusted&quot; - often just uses"/>

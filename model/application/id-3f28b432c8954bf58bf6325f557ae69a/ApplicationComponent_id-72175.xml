@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cookie register and plugin"
+    id="id-72175"
+    documentation="CMS plugin retrieving cookie information from sharepoint list"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00050 Aggregators/publishers to Symphony LMS via EDI - invoice"
+    id="id-47711"
+    documentation="As a result of aggregator receiving confirmed order they may respond with an invoice in EDIFACT format. This creates an invoice on Symphony - debits funds from fund codes. Actual payment paid from Agresso. Note not all aggregators use EDI in the same way."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Custom Plugin Architecture"
+    id="id-56446"
+    documentation="This is an Immediacy thing, configurable (you do have to write code to use it) &#xA;&#xA;&#xA;&#xA;E.g. news and events plugin&#xA;&#xA;E.g.Courses"/>

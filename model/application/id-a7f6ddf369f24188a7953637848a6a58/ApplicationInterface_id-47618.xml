@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00806 ISIS to Hear award information"
+    id="id-47618"
+    documentation="ISIS data relating to the award is sent to the HEAR application so that the information can be used/updated"/>

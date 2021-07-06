@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Top Tail"
+    id="id-72131"
+    documentation="ASP.NET application allowing management of header and footer content for the brand provider"/>

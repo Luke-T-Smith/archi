@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Xplor - learning repository"
+    id="id-35327"
+    documentation="Provides a source of course media and can be deployed to various VLE systems. Cloud based learning object repository used for storing learning objects. Publishes content directly to Blackboard courses."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00835 LANDESK to email Office 365"
+    id="id-47291"
+    documentation="To send automated emails and reports from LANDESK to email recipients"/>

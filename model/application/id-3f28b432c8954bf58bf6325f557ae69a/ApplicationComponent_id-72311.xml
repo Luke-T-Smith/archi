@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GSM Gateway"
+    id="id-72311"
+    documentation="Gateway between OXE and GSM network for fixed to mobile telephone calls"/>

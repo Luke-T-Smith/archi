@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00407 Organisation data service"
+    id="id-46891"
+    documentation="To provide single source of organisation data (departmental names, structure and hierarchy). Slowly changing but required as soon as changed"/>

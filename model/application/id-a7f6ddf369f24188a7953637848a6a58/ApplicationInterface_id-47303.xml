@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00047 Aggregators/publishers to Symphony LMS via EDI - order proposal"
+    id="id-47303"
+    documentation="Librarian orders online via the aggregators website then the order proposal including the MARC is sent overnight to the Library system where the details are manually processed into the LMS.  This can include the 9XX record. Note not all aggregators use EDI in the same way."/>

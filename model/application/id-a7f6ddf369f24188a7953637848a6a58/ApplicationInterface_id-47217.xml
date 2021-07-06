@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00054 Summon to Symphony LMS"
+    id="id-47217"
+    documentation="Real time queries to check availability of required (searched for) resource in the library catalogue."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00036 Symphony to LapSafe"
+    id="id-47367"
+    documentation="The details of the loan of the lap top are recorded on the LMS, LMS confirms OK to loan, records return of laptop."/>

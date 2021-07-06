@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fees courses integration"
+    id="id-52607"
+    documentation="Application integrating fees information with the courses database"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Objects"
+    id="id-47221"
+    documentation="Business Intelligence System - a number of components including Webi (report builder), Data Services (ETL), Universe (schema publication)."/>

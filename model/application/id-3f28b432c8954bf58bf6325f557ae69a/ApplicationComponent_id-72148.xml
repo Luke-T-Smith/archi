@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CEMSAuth"
+    id="id-72148"
+    documentation="Authentication / access-control system for many web-applications on the FET web Server 'WEEB00', uses AD."/>

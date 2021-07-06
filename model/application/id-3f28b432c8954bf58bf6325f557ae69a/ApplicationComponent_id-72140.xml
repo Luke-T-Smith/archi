@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FET Software for Home"
+    id="id-72140"
+    documentation="A system to manage and deliver software packages to authorised Staff and Students. Includes the &quot;softwareforhome&quot; MySQL database on Web00."/>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UWE Credit Rating"
+    id="id-46411"
+    documentation="Module size - number of credits, in multiples of 15&#xA;&#xA;1 Credit = 10 hourse of study&#xA;&#xA;=HEDDIPP Credit Value of Module"/>

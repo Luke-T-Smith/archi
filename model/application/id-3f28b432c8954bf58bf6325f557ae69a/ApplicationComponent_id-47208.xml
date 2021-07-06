@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External - BACS"
+    id="id-47208"
+    documentation="BACS gateway provided by bank for secure upload of BACS files"/>

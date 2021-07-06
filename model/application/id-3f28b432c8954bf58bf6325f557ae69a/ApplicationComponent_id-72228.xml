@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Password-reveal login page"
+    id="id-72228"
+    documentation="Some database and journal providers give the library an institutional username and password. The custom page manages the authenticated reveal of the passwords."/>

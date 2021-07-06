@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Console"
+    id="id-44077"
+    documentation="authenticated via SSO"/>

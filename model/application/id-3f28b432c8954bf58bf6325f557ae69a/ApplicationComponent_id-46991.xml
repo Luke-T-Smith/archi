@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="myUWE Portal"
+    id="id-46991"
+    documentation="The University's Student Portal, providing information and targetted links to resources which are personalised to the student and, to a lesser extent, to staff.  myUWE authentication is protected by the Single Sign-On (SSO) system, allowing onward navigation."/>

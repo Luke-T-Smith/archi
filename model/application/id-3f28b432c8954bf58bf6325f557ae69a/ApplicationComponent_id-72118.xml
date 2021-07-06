@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bursary Calculator"
+    id="id-72118"
+    documentation="Single page application allowing assessment of eligibility for a UWE bursary"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00009A Pension Files to USS"
+    id="id-52633"
+    documentation="REPLACED BY IC00804 USS pension scheme payments are collated in spreadsheets using reports from SAP HR before being uploaded to Pension Administrator's portals (University Superannuation Scheme)."/>

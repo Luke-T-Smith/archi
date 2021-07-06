@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pass"
+    id="id-72125"
+    documentation="Tool to monitor research bids.  Bespoke .NET web application (VB and C#) with a MSSQL backend.  https://intranet.uwe.ac.uk/sites/RBDH/Pages/BidsupportPASS.aspx"/>

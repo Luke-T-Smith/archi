@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BACS server"
+    id="id-28772"
+    documentation="In house - does student bursaries&#xA;(as well as doing all all BACS payments)&#xA;Results of goes into student info&#xA;&#xA;Contact: Catherine Jewell&#xA;&#xA;https://wikis.bris.ac.uk/display/adt/BACS+Support&#xA;The software for the BACS is located on the machine its-bacs-p.cse.bris.ac.uk, under C:\paybase.&#xA;The database behind the BACS software is ORACLE and the username and password can be found under Finance -> Paybase.&#xA;web based software C-Series by Bottomline https://its-bacs-p.cse.bris.ac.uk/Paybase/ux"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Exchange Online Encryption"
+    id="id-72155"
+    documentation="Provides email encryption for a small number of staff.  Subscription based"/>

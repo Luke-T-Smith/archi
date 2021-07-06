@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elastic Search Server"
+    id="id-72097"
+    documentation="Log Analytics"/>

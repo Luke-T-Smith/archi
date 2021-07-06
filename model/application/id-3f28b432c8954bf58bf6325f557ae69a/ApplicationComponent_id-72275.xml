@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VM Virtual Centre"
+    id="id-72275"
+    documentation="Management server for Vmware"/>

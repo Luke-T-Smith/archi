@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zabbix"
+    id="id-47187"
+    documentation="Blackboard service monitoring, also monitors a little bit of myUWE - roth.uwe.ac.uk/zabbix"/>

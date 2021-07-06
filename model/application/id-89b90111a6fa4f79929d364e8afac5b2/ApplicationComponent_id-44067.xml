@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="International Website"
+    id="id-44067"
+    documentation="Third party hosted. Doesn't use brand provider. Uses own courses data dump, not the Courses app. Courses info from an old SOAP server&#xA;&#xA;&#xA;&#xA;Will retire when migrate - to be decided, note it interfaces via a web service to get course data"/>

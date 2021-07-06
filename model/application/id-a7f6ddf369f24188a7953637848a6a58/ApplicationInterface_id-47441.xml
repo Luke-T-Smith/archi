@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00113 Reasonable adjustments to Exam Scheduler"
+    id="id-47441"
+    documentation="To provide Exam Scheduler with data about student 'reasonable adjustments'"/>

@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Respond to requests to access"
+    id="id-34970"
+    documentation="If HR are unable to access the data they require they make a request to ITS Help desk. Report would be developed by ITS in response, assuming requests are non-urgent with a turn around time of a few days.">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-34967.xml#id-34967"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-34962.xml#id-34962"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campus Location"
+    id="id-46356"
+    documentation="Main location for the Primary Award.&#xA;&#xA;&#xA;&#xA;Possibly called this in SITS. Controlled list of UWE campus locations e.g. Frenchay, Glenside, etc&#xA;&#xA;&#xA;&#xA;(in ISIS = &quot;Taught At&quot; - linked to RASP, Course Database = &quot;Campus&quot;)"/>

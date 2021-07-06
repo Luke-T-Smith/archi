@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ISIS Extract Database"
+    id="id-47224"
+    documentation="Copy of ISIS tables in SQLserver for interfacing and reporting"/>

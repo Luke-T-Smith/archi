@@ -1,0 +1,22 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Curriculum Approval To Be 2017 - new CMT"
+    id="id-27793">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-46634"
+      font="1|Arial|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#000000"
+      fillColor="#afffff">
+    <bounds
+        x="333"
+        y="153"
+        width="133"
+        height="53"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-28335.xml#id-28335"/>
+  </children>
+</archimate:ArchimateDiagramModel>

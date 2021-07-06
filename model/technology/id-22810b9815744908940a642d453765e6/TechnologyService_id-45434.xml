@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Other Database Services"
+    id="id-45434"
+    documentation="Access databases, MySQL and prob standalone SQL servers exist outside of ITS"/>

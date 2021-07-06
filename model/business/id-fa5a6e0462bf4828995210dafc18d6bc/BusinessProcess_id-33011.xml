@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Pass bank transfer information to the International Office"
+    id="id-33011"
+    documentation="Cash office identify name, student number (if the remittance/payment reference includes their student number) and total amount received in the bank (ie totally amount, less any charges).&#xA;&#xA;&#xA;&#xA;Future students then tell Finance how to allocated e.g. to accommodation/fees etc&#xA;&#xA;&#xA;&#xA;Finance then manually input the breakdown in Agresso."/>

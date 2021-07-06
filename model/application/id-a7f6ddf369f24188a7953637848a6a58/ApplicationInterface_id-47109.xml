@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00794 ISIS: Portal on-line submissions"
+    id="id-47109"
+    documentation="Enables students to see whether they have cover sheet to down load for course work (inc bar code), or blackboard submission coming up. GetAllSubmissionItems , GetCollectionItems , GetCoverSheetDetail , GetCoverSheetItems , GetSubmissionItems"/>

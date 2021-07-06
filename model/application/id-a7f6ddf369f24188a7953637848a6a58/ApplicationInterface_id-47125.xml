@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00043 Symphony to MyUWE portal"
+    id="id-47125"
+    documentation="LMS responds to portal look up with transactions that relate to the user ID sent to the LMS - sends details of loans, fines, reservations. Also notifications such as recall, fine, pick up"/>

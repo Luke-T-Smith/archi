@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00426 Recruitment"
+    id="id-47529"
+    documentation="To provide the personal data that the successful candidate has already provided plus post data in order to automatically create the employee in HR system. Data includes - name, address, post, date of birth, NI number, sex, nationality, work permit status "/>

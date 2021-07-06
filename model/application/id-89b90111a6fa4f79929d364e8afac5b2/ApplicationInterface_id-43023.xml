@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HR to FIM"
+    id="id-43023"
+    documentation="As new people are created in HR system a workflow will trigger the running of a web service that will send the details of the new person from HR to a web service end point. This will put the data into a form that can be ingested by FIM - such as a file in the FIM 'input; directory. FIM will be set up to process files it finds in this location on a frequent basis (e.g. every 2 mins)."/>

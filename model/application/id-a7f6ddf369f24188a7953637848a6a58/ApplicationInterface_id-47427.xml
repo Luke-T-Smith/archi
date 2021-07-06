@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00839 Documents from CRM portal to CRM"
+    id="id-47427"
+    documentation="Portal users can upload documents to the CRM system (these are filed on SharePoint by CRM) e.g. for disability assessment"/>

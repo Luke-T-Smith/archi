@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PDF Convertor"
+    id="id-72281"
+    documentation="PDF convertor add-on for SharePoint"/>

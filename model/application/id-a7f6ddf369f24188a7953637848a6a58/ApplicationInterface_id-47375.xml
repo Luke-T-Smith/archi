@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00162 Cost centres to BI"
+    id="id-47375"
+    documentation="Cost Centres master data feed to Business Intelligence data warehouse from Agresso Finance"/>

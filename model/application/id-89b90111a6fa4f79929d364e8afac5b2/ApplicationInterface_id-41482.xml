@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Step 2 Service provider to Summon"
+    id="id-41482"
+    documentation="Service provider looks up in its meta-data the URL to redirect a request to the IDP (identity provider)."/>

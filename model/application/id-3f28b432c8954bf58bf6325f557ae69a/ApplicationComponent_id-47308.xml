@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Allocator"
+    id="id-47308"
+    documentation="Module Selection / Allocation/activity selection and change&#xA;Modules and programmes are maintained by curriculum archuitects&#xA;some manual set up of modules - they are not consistent between systems&#xA;Used by Student Advisers to create a programme of study e.g. for students who need to re-take exams - web interface&#xA;Used for making module choice by students, workshop sign ups, module change and activity changes."/>

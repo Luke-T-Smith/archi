@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00848 Kaltura and Blackboard integration"
+    id="id-47165"
+    documentation="To integrate Kaltura and Blackboard - Building Block used, activated as user clicks a link. From Blackboard student can link to the captured lecture, lecturer creates this link in the first place."/>

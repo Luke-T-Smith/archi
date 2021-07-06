@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Solaris Host Service 01 Milne Sun V890"
+    id="id-45426"
+    documentation="Split into zones, each of which is a virtual server"/>

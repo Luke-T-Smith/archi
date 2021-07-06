@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00040 Smart service self service to Symphony"
+    id="id-47249"
+    documentation="Library user can return or borrow a resource (e.g. book) using the self service terminal which checks the user's ID/PIN with LMS as well as the book details (RFID)"/>

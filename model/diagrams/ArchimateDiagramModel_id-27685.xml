@@ -1,0 +1,37 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for TO BE HR System"
+    id="id-27685">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-61311"
+      font="1|Arial|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#707070"
+      fillColor="#b5ffff">
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_id-28712.xml#id-28712"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-61495"
+      font="1|Arial|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Arial"
+      fontColor="#000000"
+      lineColor="#707070"
+      textAlignment="1"
+      fillColor="#b5ffff"
+      content="iTrent">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+  </children>
+</archimate:ArchimateDiagramModel>

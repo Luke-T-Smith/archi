@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00024 Reports for Finance"
+    id="id-56545"
+    documentation="other reports run by finance from SAP HR - only one person in Finance has access to SAP HR"/>

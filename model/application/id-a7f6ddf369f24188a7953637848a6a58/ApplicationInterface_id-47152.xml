@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00786 PDF photo ID process"
+    id="id-47152"
+    documentation="Upload pdf requests from HSC Cpd system onto main photos table&#xA;if need identity card but do not want to submit photo, print off pdf attach photo, shows a card has been requested and prevents a photo being uploaded"/>

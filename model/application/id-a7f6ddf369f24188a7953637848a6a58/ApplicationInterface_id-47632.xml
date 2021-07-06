@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00167 Supplier to BI"
+    id="id-47632"
+    documentation="Supplier master data to Business Objects data warehouse from Agresso Finance"/>

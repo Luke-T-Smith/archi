@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00764 Student Loan Assessments (tuition Fees Loan)"
+    id="id-46970"
+    documentation="Loan extended file into ISIS - User extracts data from SLC portal and saves it to a location from which a process that runs every 30 mins can detect the file and load it to ISIS, SSAR table."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HR and Finance Agresso Business World"
+    id="id-49590"
+    documentation="This assumes HR is configured in Agresso as well as Finance - only an option at this point."/>

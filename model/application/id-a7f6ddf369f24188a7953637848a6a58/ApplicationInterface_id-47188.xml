@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00843 Monitoring of Blackboard"
+    id="id-47188"
+    documentation="To enable Blackboard system availability and processes to be monitored"/>

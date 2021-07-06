@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HR iTrent Publisher API"
+    id="id-51299"
+    documentation="Can post XML to an endpoint"/>

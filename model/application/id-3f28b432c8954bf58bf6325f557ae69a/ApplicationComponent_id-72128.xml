@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Modules Database"
+    id="id-72128"
+    documentation="end of life, module and program specs that are still running. Central system is slowly replacing but only when a module needs updated. Will be needed until all modules running have been updated"/>

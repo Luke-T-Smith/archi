@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00406 BACS file to BACS"
+    id="id-47209"
+    documentation="To pubmit BACS file to BACS for paying people"/>

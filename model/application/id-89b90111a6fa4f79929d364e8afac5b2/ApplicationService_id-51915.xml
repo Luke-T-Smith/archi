@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Process Manager (LPM)"
+    id="id-51915"
+    documentation="Used to automate processes such as server build / deployments. Could be used in future."/>

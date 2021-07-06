@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="openLDAP server"
+    id="id-47565"
+    documentation="LDAP directory used by some systems"/>

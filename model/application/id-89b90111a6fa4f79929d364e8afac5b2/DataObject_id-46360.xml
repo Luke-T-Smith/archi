@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Award Type"
+    id="id-46360"
+    documentation="E.g. x number of years study/credit values lead e.g. to cert/msc/b-eng level etc&#xA;&#xA;E.g.value  BA(hons) - controlled vocab"/>

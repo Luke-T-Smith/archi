@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IF-00045 Symphony to other libraries - ILL"
+    id="id-47354"
+    documentation="People use a web form to request to the library for something that is not in the UWE catalogue, librarian checks the form and can send a request to other library (usually British Library) via automated email that includes unique ID and PIN. The text of th"/>
